@@ -55,16 +55,17 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		name: "Sinful Aura",
 		onDamagingHit(damage, target, source, move) {
 			if (target === source || move.category === 'Status' || move.type !== 'Dark') return;
-			return this.chainModify([1.2]);
+			return this.chainModify([4915,4096]);
 		},
 		onModifyTypePriority: -1,
 		onModifyType(move, pokemon) {
 			const noModifyType = [
 				'judgment', 'multiattack', 'naturalgift', 'revelationdance', 'technoblast', 'terrainpulse', 'weatherball',
 			];
-			if (move.type === 'Normal' && !noModifyType.includes(move.id) && !(move.isZ && move.category !== 'Status')) {
+			if (move.type === 'Normal' && !noModifyType.includes(move.id) &&
+				!(move.isZ && move.category !== 'Status') && !(move.name === 'Tera Blast' && pokemon.terastallized)) {
 				move.type = 'Dark';
-				move.pixilateBoosted = true;
+				move.typeChangerBoosted = this.effect;
 			}
 		},
 	},
@@ -1455,6 +1456,41 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		rating: 2,
 		num: 201,
 	},
+	zenkai: {
+		onDamage(damage, target, source, effect) {
+			if (
+				effect.effectType === "Move" &&
+				!effect.multihit &&
+				(!effect.negateSecondary && !(effect.hasSheerForce && source.hasAbility('sheerforce')))
+			) {
+				this.effectState.checkedZenkai = false;
+			} else {
+				this.effectState.checkedZenkai = true;
+			}
+		},
+		onTryEatItem(item) {
+			const healingItems = [
+				'aguavberry', 'enigmaberry', 'figyberry', 'iapapaberry', 'magoberry', 'sitrusberry', 'wikiberry', 'oranberry', 'berryjuice',
+			];
+			if (healingItems.includes(item.id)) {
+				return this.effectState.checkedZenkai;
+			}
+			return true;
+		},
+		onAfterMoveSecondary(target, source, move) {
+			this.effectState.checkedZenkai = true;
+			if (!source || source === target || !target.hp || !move.totalDamage) return;
+			const lastAttackedBy = target.getLastAttackedBy();
+			if (!lastAttackedBy) return;
+			const damage = move.multihit ? move.totalDamage : lastAttackedBy.damage;
+			if (target.hp <= target.maxhp / 4 && target.hp + damage > target.maxhp / 4) {
+				this.boost({spa: 1,atk: 1}, target, target);
+			}
+		},
+		name: "Zenkai",
+		rating: 2,
+		num: 201,
+	},
 	bigpecks: {
 		onTryBoost(boost, target, source, effect) {
 			if (source && target === source) return;
@@ -1572,6 +1608,32 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		name: "Color Change",
 		rating: 0,
 		num: 16,
+	},
+	golemgrace: {
+		onTryHit(target, source, move) {
+			if (target != source) {
+				return;
+			}
+			if (move.type === "Poison" || move.type === "Rock" || move.type === "Bug" || move.type === "Psychic"|| move.type === "Fairy"|| move.type === "Dragon") {
+				target.setType("Steel");
+			}
+			else if (move.type === "Normal" || move.type === "Fire" || move.type === "Ghost") {
+				target.setType("Rock");
+			}
+			else if (move.type === "Ground" || move.type === "Grass" || move.type === "Ice") {
+				target.setType("Ice");
+			}
+			else if (move.type === "Steel" || move.type === "Electric" || move.type === "Flying") {
+				target.setType("Electric");
+			}
+			else if (move.type === "Dark" || move.type === "Water" || move.type === "Fighting") {
+				target.setType("Dragon");
+			}
+			return;
+		},
+		name: "Golem Grace",
+		rating: 4,
+		num: 216,
 	},
 	comatose: {
 		onStart(pokemon) {
@@ -2258,6 +2320,21 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		},
 		isBreakable: true,
 		name: "Flash Fire",
+		rating: 3.5,
+		num: 18,
+	},
+	bootstrap: {
+		onTryHit(target, source, move) {
+			if (target !== source && move.type === 'Bug') {
+				move.accuracy = true;
+				if (!target.addVolatile('Bootstrap')) {
+					this.add('-immune', target, '[from] ability: Bootstrap');
+				}
+				return null;
+			}
+		},
+		isBreakable: true,
+		name: "Bootstrap",
 		rating: 3.5,
 		num: 18,
 	},
@@ -3366,6 +3443,24 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		name: "Merciless",
 		rating: 1.5,
 		num: 196,
+	},
+	ruthless: {
+		onModifyCritRatio(critRatio, source, target) {
+			if (target && ['psn','tox','brn','par','slp','fer','frz'].includes(target.status)) return 5;
+		},
+		name: "Ruthless",
+		rating: 1.5,
+		num: 196,
+	},
+	executioner: {
+		onBasePower(basePower,pokemon,target,move) {
+			if (target.hp > target.maxhp/2) {
+				return this.chainModify(2);
+			}
+		},
+		name: "Executioner",
+		rating: 4,
+		num: 196
 	},
 	mimicry: {
 		onStart(pokemon) {
@@ -5406,6 +5501,33 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 			}
 		},
 		name: "Supreme Overlord",
+		rating: 4,
+		num: 293,
+	},
+	bodycount: {
+		onStart(pokemon) {
+			if (pokemon.side.totalFainted) {
+				this.add('-activate', pokemon, 'Body Count');
+				const fallen = Math.min(pokemon.side.totalFainted, 5);
+				this.add('-start', pokemon, `fallen${fallen}`, '[silent]');
+				this.effectState.fallen = fallen;
+			}
+		},
+		onEnd(pokemon) {
+			this.add('-end', pokemon, `fallen${this.effectState.fallen}`, '[silent]');
+		},
+		onBasePower(basePower, attacker, defender, move) {
+			return this.chainModify(1/3)
+		},			
+		onPrepareHit(source, target, move) {
+			if (move.category === 'Status' || move.selfdestruct || move.multihit || !this.effectState.fallen) return;
+			if (['dynamaxcannon', 'endeavor', 'fling', 'iceball', 'rollout'].includes(move.id)) return;
+			if (!move.flags['charge'] && !move.isZ && !move.isMax) {
+				move.multihit = this.effectState.fallen +1;
+				move.multihitType = 'bodycount';
+			}
+		},
+		name: "Body Count",
 		rating: 4,
 		num: 293,
 	},
