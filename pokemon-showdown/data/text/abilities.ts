@@ -78,6 +78,11 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 		desc: "This Pokemon sets Future Sight on entry",
 		shortDesc: "Sets Future Sight on entry"
 	},
+	constriction: {
+		name: "Constriction",
+		desc: "This Pokemon's constricting moves have boosted damage at the end of turns",
+		shortDesc: "Turn based damage boosted by 30%"
+	},
 	adaptability: {
 		name: "Adaptability",
 		desc: "This Pokemon's moves that match one of its types have a same-type attack bonus (STAB) of 2 instead of 1.5.",
