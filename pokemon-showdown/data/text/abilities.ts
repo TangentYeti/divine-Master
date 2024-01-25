@@ -18,6 +18,31 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 		desc: "The Weather becomes Overcast. Any attempt to change the weather from overcast will damage that pokemon",
 		shortDesc: "Weather becomes Overcast, pokemon take 1/8th damage when attempting to change it."
 	},
+	avian: {
+		name: "Avian",
+		desc: "This Pokemon's Flying type moves have their power mulitplied by 1.5",
+		shortDesc: "Flying moves are boosted by 1.5x"
+	},
+	badomen: {
+		name: "Bad Omen",
+		desc: "Lowering this Pokemon's Stats damages the opponent",
+		shortDesc: "Lowering this Pokemon's Stats damages the opponent"
+	},
+	battlehardened: {
+		name: "Battle Hardened",
+		desc: "This Pokemon's DEfense increases by 1 stage each turn",
+		shortDesc: "+1 defense each turn"
+	},
+	betrayal: {
+		name: "Betrayal",
+		desc: "This Pokemon steals the targets boosts on kill",
+		shortDesc: "Steals boosts on kill"
+	},
+	Bodyguard: {
+		name: "Bodyguard",
+		desc: "This Pokemon becomes the target of all attacks when on the field",
+		shortDesc: "Follow me as ability"
+	},
 	adaptability: {
 		name: "Adaptability",
 		desc: "This Pokemon's moves that match one of its types have a same-type attack bonus (STAB) of 2 instead of 1.5.",
