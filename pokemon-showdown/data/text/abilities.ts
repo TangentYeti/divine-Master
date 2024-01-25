@@ -38,7 +38,7 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 		desc: "This Pokemon steals the targets boosts on kill",
 		shortDesc: "Steals boosts on kill"
 	},
-	Bodyguard: {
+	bodyguard: {
 		name: "Bodyguard",
 		desc: "This Pokemon becomes the target of all attacks when on the field",
 		shortDesc: "Follow me as ability"
