@@ -3,6 +3,21 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 		name: "No Ability",
 		shortDesc: "Does nothing.",
 	},
+	acidbreath: {
+		name: "Acid Breath",
+		desc: "This Pokemon's Biting moves have a 20% chance to inflict Toxic Poison",
+		shortDesc: "Biting Moves have 20% Toxic Chance"
+	},
+	aquapotent: {
+		name: "Aquapotent",
+		desc: "This Pokemon's Water type moves have their power multiplied by 1.2 and can no longer miss",
+		shortDesc: "Water Moves are multiplied by 1.2 and never miss"
+	},
+	atmokinesis: {
+		name: "Atmokinesis",
+		desc: "The Weather becomes Overcast. Any attempt to change the weather from overcast will damage that pokemon",
+		shortDesc: "Weather becomes Overcast, pokemon take 1/8th damage when attempting to change it."
+	},
 	adaptability: {
 		name: "Adaptability",
 		desc: "This Pokemon's moves that match one of its types have a same-type attack bonus (STAB) of 2 instead of 1.5.",
