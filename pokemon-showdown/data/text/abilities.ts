@@ -43,6 +43,41 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 		desc: "This Pokemon becomes the target of all attacks when on the field",
 		shortDesc: "Follow me as ability"
 	},
+	bootstrap: {
+		name: "Bootstrap",
+		desc: "Grants Immunity to Bug type moves",
+		shortDesc: "Immune to Bug"
+	},
+	calculation: {
+		name: "Calculation",
+		desc: "Trick Room becomes active when this Pokemon enters the field",
+		shortDesc: "Sets Trick Room on entry"
+	},
+	chloromancer: {
+		name: "Chloromancer",
+		desc: "This Pokemon's HP is restored in sunlight",
+		shortDesc: "Heals 1/12 in sun"
+	},
+	chronomancer: {
+		name: "Chronomancer",
+		desc: "Priority is neutralised in this Pokemon's favour when it is on the field",
+		shortDesc: "Priority is neutralised in this Pokemon's favour"
+	},
+	turbine: {
+		name: "Turbine",
+		desc: "This Pokemon sets tailwind on entry",
+		shortDesc: "Sets Tailwind on switch in"
+	},
+	zenkai: {
+		name: "Zenkai",
+		desc: "This Pokemon's Attack and Special Attack are boosted when on low HP",
+		shortDesc: "+1 Attack, +1 SpAttack when under 25%"
+	},
+	constellation: {
+		name: "Constellation",
+		desc: "This Pokemon sets Future Sight on entry",
+		shortDesc: "Sets Future Sight on entry"
+	},
 	adaptability: {
 		name: "Adaptability",
 		desc: "This Pokemon's moves that match one of its types have a same-type attack bonus (STAB) of 2 instead of 1.5.",
