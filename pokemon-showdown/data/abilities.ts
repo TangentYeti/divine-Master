@@ -421,7 +421,7 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		rating: 3.5,
 		num: 22,
 	},
-	radiate: {
+	irradiate: {
 		onStart(pokemon) {
 			let activated = false;
 			for (const target of pokemon.adjacentFoes()) {
@@ -436,7 +436,7 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 				}
 			}
 		},
-		name: "Radiate",
+		name: "Irradiate",
 		rating: 3.5,
 		num: 22,
 	},
@@ -2684,6 +2684,22 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 			}
 		},
 		name: "Guard Dog",
+		rating: 2,
+		num: 275,
+	},
+	standoff: {
+		onDragOutPriority: 1,
+		onDragOut(pokemon) {
+			this.add('-activate', pokemon, 'ability: Guard Dog');
+			return null;
+		},
+		onTryBoost(boost, target, source, effect) {
+			if (effect.name === 'Intimidate' && boost.atk) {
+				delete boost.atk;
+				this.boost({atk: 1}, target, target, null, false, true);
+			}
+		},
+		name: "Stand Off",
 		rating: 2,
 		num: 275,
 	},

@@ -190,202 +190,202 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
     },
     lunarempress: {
         name: "Lunar Empress",
-        desc: "",
+        desc: "This Pokemon's weaknesses to Ghost and Dark are negated",
         shortDesc: "Negates Ghost and Dark type Weaknesses"
     },
     maelstrom: {
         name: "Maelstrom",
-        desc: "",
+        desc: "This Pokemon summons a Thunderstorm when it enters the field",
         shortDesc: "Summons Thunderstorm weather effect"
     },
     magmacore: {
         name: "Magma Core",
-        desc: "",
+        desc: "This Pokemon deals damage to all pokemon on the field at the end of each turn",
         shortDesc: "Does % damage to pokemon for existing"
     },
     mechanic: {
         name: "Mechanic",
-        desc: "",
+        desc: "This Pokemon heals itself when it uses a non damaging move",
         shortDesc: "Allows 10% Heal when using non-damaging attacks"
     },
     molten: {
         name: "Molten",
-        desc: "",
-        shortDesc: "\"Can burn opponents when user uses a contact move"
+        desc: "This Pokemon cannot be burnt and has a chance to burn opponents when it attacks them",
+        shortDesc: "Can burn opponents when user uses a contact move"
     },
     nitrogenize: {
         name: "Nitrogenize",
-        desc: "",
+        desc: "This Pokemon's Ice type attacks have a chance to burn",
         shortDesc: "All Ice attacks have a chance to burn"
     },
     noxiousskin: {
         name: "Noxious Skin",
-        desc: "",
+        desc: "This Pokemon deals damage to opponents that make contact",
         shortDesc: "Deals damage to attackers that make contact"
     },
     oceansblessing: {
         name: "Ocean's Blessing",
-        desc: "",
+        desc: "This Pokemon's Defense stats are boosted in the rain",
         shortDesc: "Increases Defenses in rain"
     },
     packhunter: {
         name: "Pack Hunter",
-        desc: "",
+        desc: "This Pokemon deals additional damage when in double or triple battles",
         shortDesc: "Increased Damage when in double or triple battles."
     },
     parasitic: {
         name: "Parasitic",
-        desc: "",
+        desc: "This Pokemon heals for 25% of the damage it deals with Contact moves",
         shortDesc: "Restore 25% of damage dealt on Contact Moves"
     },
     petrify: {
         name: "Petrify",
-        desc: "",
+        desc: "This Pokemon cannot be attacked when it switches in",
         shortDesc: "Stops opponent from attacking on first turn after switching in"
     },
     photonic: {
         name: "Photonic",
-        desc: "",
-        shortDesc: "\"Electric and Fire moves powers are boosted"
+        desc: "This Pokemon's Electric and Fire type moves are boosted but it gains a weakness to Dark type moves",
+        shortDesc: "Electric and Fire moves powers are boosted"
     },
     piercingarmor: {
         name: "Piercing Armor",
-        desc: "",
-        shortDesc: "\"Deals Damage on Contact taken"
+        desc: "This Pokemon deals damage when opponents make contact, it also reduces their attack stat",
+        shortDesc: "Deals Damage on Contact taken"
     },
     pondskipper: {
         name: "Pond Skipper",
-        desc: "",
+        desc: "This Pokemon's speed increases for every turn they spend in teh rain",
         shortDesc: "Boosts Speed every turn in rain"
     },
-    radiate: {
-        name: "Radiate",
-        desc: "",
+    irradiate: {
+        name: "Irradiate",
+        desc: "This Pokemon poisons any opponent that switches in",
         shortDesc: "Poisons the opponent when they switch in"
     },
     reinforced: {
         name: "Reinforced",
-        desc: "",
+        desc: "This Pokemon takes no recoil damage and has its recoil moves boosted",
         shortDesc: "Removes Recoil and Boosts recoil moves by 1.2x"
     },
     relentless: {
         name: "Relentless",
-        desc: "",
+        desc: "This Pokemon ignores moves like Protect and Endure",
         shortDesc: "Ignores moves like Protect and Endure"
     },
     reptilian: {
         name: "Reptilian",
-        desc: "",
-        shortDesc: "\"Heal 1/8th in the sun"
+        desc: "This Pokemon restores HP in the sun but takes damage in the cold",
+        shortDesc: "Heal 1/8th in the sun"
     },
     rhythm: {
         name: "Rhythm",
-        desc: "",
+        desc: "This Pokemon's Speed stat cannot be lowered",
         shortDesc: "Prevents speed being lowered"
     },
     ruthless: {
         name: "Ruthless",
-        desc: "",
+        desc: "This Pokemon always lands a critical hit against statused targets",
         shortDesc: "Always crit a statused target"
     },
     shrillvoice: {
         name: "Shrill Voice",
-        desc: "",
+        desc: "This Pokemon's Sound moves deal boosted damage",
         shortDesc: "Boosts sound moves"
     },
     silkslinger: {
         name: "Silk Slinger",
-        desc: "",
+        desc: "This Pokemon returns projectile based moves",
         shortDesc: "All projectile moves are returned"
     },
     sinfulaura: {
         name: "Sinful Aura",
-        desc: "",
+        desc: "This Pokemon's Normal type moves become dark type",
         shortDesc: "Dark type Pixilate"
     },
     slowmotion: {
         name: "Slow Motion",
-        desc: "",
+        desc: "The priority of all moves is reversed when this Pokemon is on the field",
         shortDesc: "Reverses priority of moves when in battle"
     },
     solsticecore: {
         name: "Solstice Core",
-        desc: "",
+        desc: "This Pokemon restores HP when hit by an Ice type move but takes damage in the sun",
         shortDesc: "Dry Skin but ice not water"
     },
     spiritual: {
         name: "Spiritual",
-        desc: "",
+        desc: "This Pokemon's Fairy type attacks deal boosted damage",
         shortDesc: "Gives Stab bonus to Fairy type moves"
     },
     standoff: {
         name: "Stand Off",
         desc: "",
-        shortDesc: "Increases damage against pokemon that share a type with the user"
+        shortDesc: "Cannot be forced out and is immune to intimidate"
     },
     stunningentrance: {
         name: "Stunning Entrance",
-        desc: "",
+        desc: "This Pokemon lowers ",
         shortDesc: "Lowers speed stat when switch in"
     },
     sunrise: {
         name: "Sunrise",
-        desc: "",
+        desc: "This Pokemon's Fire type attacks are super effective against Ghost and Dark type opponents",
         shortDesc: "Fire moves are super effective on ghost and dark types"
     },
     superiorzen: {
         name: "Superior Zen",
-        desc: "",
+        desc: "All of this Pokemon's attacks use its Special Attack stat",
         shortDesc: "Turns all of the user's attacks into special moves"
     },
     survivalist: {
         name: "Survivalist",
-        desc: "",
-        shortDesc: "\"During Weather effects"
+        desc: "This Pokemon's secondary type changes to match the type of the current weather",
+        shortDesc: "During Weather effects"
     },
     temptress: {
         name: "Temptress",
-        desc: "",
+        desc: "This Pokemon causes the opponent to become infatuated when it switches in",
         shortDesc: "Causes Infatuation on switch in"
     },
     territorial: {
         name: "Territorial",
-        desc: "",
+        desc: "This Pokemon's Speed stat increases when an opponent switches in",
         shortDesc: "Raises Speed when an opponent switches in"
     },
     tikimask: {
         name: "Tiki Mask",
-        desc: "",
-        shortDesc: "\"Gives substitute "
+        desc: "This Pokemon's stats change when it it first hit",
+        shortDesc: "Gives substitute "
     },
     truesight: {
         name: "Truesight",
-        desc: "",
+        desc: "This Pokemon's attacks ignore type immunities",
         shortDesc: "Can hit all types regardless of immunities"
     },
     unarmoured: {
         name: "Unarmoured",
-        desc: "",
+        desc: "All contact moves that target this Pokemon will always be critical hits",
         shortDesc: "All Contact moves against this pokemon are critcal"
     },
     underdog: {
         name: "Underdog",
-        desc: "",
+        desc: "This Pokemon's Speed is doubled when it is weaker than the opponent",
         shortDesc: "Doubled speed when at a lower HP than the opponent"
     },
     unwaveringfocus: {
         name: "Unwavering Focus",
-        desc: "",
+        desc: "This Pokemon's attack cannot miss",
         shortDesc: "This Pokemon will always land its attacks"
     },
     vaccine: {
         name: "Vaccine",
-        desc: "",
+        desc: "This Pokemon's status conditions are healed at teh end of any turn",
         shortDesc: "Removes Status at the end of turn"
     },
     vampiric: {
         name: "Vampiric",
-        desc: "",
+        desc: "This Pokemon restores Hp when using Biting attacks",
         shortDesc: "Restore 50% of damage dealt on Biting Moves"
     },
     venomous: {
@@ -400,37 +400,32 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
     },
     bodycount: {
         name: "Body Count",
-        desc: "",
-        shortDesc: "\"Moves Power x0.33"
+        desc: "This Pokemon's attacks are weaker but it attack more when party members have fainted",
+        shortDesc: "Moves Power x0.33, hits equal to 7 - number of party mons alive"
     },
     widowsbite: {
         name: "Widow's Bite",
-        desc: "",
+        desc: "This Pokemon gives a grudge to the opponet when fainted by a contact move",
         shortDesc: "Grudge if u get killed by contact move"
-    },
-    wildfire: {
-        name: "Wildfire",
-        desc: "",
-        shortDesc: "Adds 10 power to consequetively used fire moves"
     },
     wither: {
         name: "Wither",
-        desc: "",
+        desc: "This Pokemon lowers the Special Attack stat of teh opponent on switchin",
         shortDesc: "Lowers Opponents Sp Atk when entering the battle"
     },
     magmapool: {
         name: "Magma Pool",
-        desc: "",
+        desc: "This Pokemon restores HP when hit by a fire move",
         shortDesc: "Heals from fire moves"
     },
     seeingred: {
         name: "Seeing Red",
-        desc: "",
-        shortDesc: "#ERROR!"
+        desc: "This Pokemon gains 1 attack when hit by an attack",
+        shortDesc: "Attack raises when attacked"
     },
     vacuum: {
         name: "Vacuum",
-        desc: "",
+        desc: "This Pokemon restores HP when wind moves are used",
         shortDesc: "Wind Moves get converted to Health"
     },
 	adaptability: {
