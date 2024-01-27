@@ -85,112 +85,107 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 	},
 	cropdust: {
         name: "Cropdust",
-        desc: "",
+        desc: "This Pokemon deals additional damage to grass and flying type opponents.",
         shortDesc: "Deals 2x damage to grass and flying pokemon"
     },
     cursedgrowth: {
         name: "Cursed Growth",
-        desc: "",
+        desc: "This Pokemon's Grass type attacks are boosted by 50%",
         shortDesc: "Boosts damage on Grass type attacks"
     },
     divination: {
         name: "Divination",
-        desc: "",
+        desc: "This Pokemon sets future sight when it enters the field",
         shortDesc: "Sets future sight on entry"
     },
     draconicheritage: {
         name: "Draconic Heritage",
-        desc: "",
-        shortDesc: "Dragon's Maw"
+        desc: "This Pokemon's dragon type moves are more potent than usual",
+        shortDesc: "Dragon Type moves do 1.5x damage"
     },
     executioner: {
         name: "Executioner",
-        desc: "",
+        desc: "This Pokemon deals double damage to weakened opponents",
         shortDesc: "Moves power is doubled when opponent is below half HP"
     },
     falsepositive: {
         name: "False Positive",
-        desc: "",
+        desc: "This Pokemon's status conditions are removed and trasferred to the opponent instead",
         shortDesc: "Removes all status ailments and sends them back to the user"
     },
     fearaura: {
         name: "Fear Aura",
-        desc: "",
+        desc: "This Pokemon has a 30% chance to apply fear on the opponent when attacking",
         shortDesc: "30% chance to cause Fear in target"
-    },
-    forager: {
-        name: "Forager",
-        desc: "",
-        shortDesc: "20% chance to find a random berry at the end of each turn"
     },
     frailskin: {
         name: "Frail Skin",
-        desc: "",
-        shortDesc: "\"When hit with contact move"
+        desc: "This Pokemon's Defense is lowered when attacked, but its special attack is increased",
+        shortDesc: "When hit with contact move, +1 SpAtk, -1 Def"
     },
     fromtheashes: {
         name: "From the Ashes",
-        desc: "",
-        shortDesc: "\"When hit to 0 HP"
+        desc: "When this Pokemon is knocked down to 0 Hit Points for the first time in battle, its HP is fully restored, all status conditions are removed and all stat changes are reset.",
+        shortDesc: "When 1st hit to 0 HP, heal to full, stat changes set to 0 and status removed"
     },
     frostedembrace: {
         name: "Frosted Embrace",
-        desc: "",
-        shortDesc: "Opponents that make contact have lowered speed"
+        desc: "This Pokemon lowers the opponents speed when they make contact with it",
+        shortDesc: "Opponents that make contact have -1 speed"
     },
     galeglider: {
         name: "Galeglider",
-        desc: "",
+        desc: "This Pokemon gains the advantages of the flying type in Strong Winds",
         shortDesc: "Gives Flying Type in Strong Winds"
     },
     gaseous: {
         name: "Gaseous",
-        desc: "",
+        desc: "This Pokemon takes half damage from contaact moves",
         shortDesc: "Halfs Contact moves damage taken"
     },
     golemgrace: {
         name: "Golem Grace",
-        desc: "",
-        shortDesc: "Changes mon to the best defensive type available"
+        desc: "This Pokemon changes type when attacked, it attempts to change to the best type match up possible",
+        shortDesc: "Changes to the most suitable type available when attacked"
     },
     gorgongaze: {
         name: "Gorgon Gaze",
-        desc: "",
+        desc: "This Pokemon sometimes freezes opponents when they make contact",
         shortDesc: "Chance for Opponent to be frozen upon contact"
     },
     hellborn: {
         name: "Hellborn",
-        desc: "",
+        desc: "This Pokemon's Dark type moves gain a 50% boost in damage",
         shortDesc: "Gain boosted damage using Dark type moves"
     },
     honour: {
         name: "Honour",
-        desc: "",
+        desc: "This Pokemon's cannot be lowered, and it cannot lower other Pokemon's stats",
         shortDesc: "Stats cannot be lowered by the user or against the user."
     },
     huntersmark: {
         name: "Hunter's Mark",
-        desc: "",
+        desc: "This POkemon traps both itself and its opponent in once it attacks",
         shortDesc: "User and Target cannot switch out once attacked"
     },
     impaler: {
         name: "Impaler",
-        desc: "",
+        desc: "This Pokemon's stabbing moves have increased damage",
         shortDesc: "Increases stabbing moves damage"
     },
     innerpeace: {
         name: "Inner Peace",
-        desc: "",
+        desc: "This Pokemon's Special stats cannot be lowered",
         shortDesc: "Prevents Special Stats from being lowered"
     },
     jellyarmor: {
         name: "Jelly Armor",
-        desc: "",
+        desc: "This Pokemon reflects some of the damage dealth from projectile moves back at the opponent",
         shortDesc: "Reflect damage from projectile moves."
     },
     leechingspirit: {
         name: "Leeching Spirit",
-        desc: "",
+        desc: "This Pokemon applies the Curse effect to any pokemon that makes contact with it",
         shortDesc: "Applies curse when made contact"
     },
     lunarempress: {
