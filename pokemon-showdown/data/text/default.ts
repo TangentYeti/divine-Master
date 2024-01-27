@@ -168,6 +168,14 @@ export const DefaultText: {[k: string]: DefaultText} = {
 	},
 
 	// statuses
+	fer: {
+		start: "  [POKEMON] is quaking in fear!",
+		startFromItem: "  [POKEMON] was scared by the [ITEM]!",
+		alreadyStarted: "  [POKEMON] is already scared!",
+		end: "  [POKEMON]'s fear was healed!",
+		endFromItem: "  [POKEMON]'s [ITEM] healed its fear!",
+		damage: "  [POKEMON] was hurt by its fear!",
+	},
 	brn: {
 		start: "  [POKEMON] was burned!",
 		startFromItem: "  [POKEMON] was burned by the [ITEM]!",
