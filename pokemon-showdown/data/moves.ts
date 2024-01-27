@@ -617,7 +617,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		},
 		secondary: null,
 		target: "normal",
-		type: "Fighting",
+		type: "Steel",
 		contestType: "Tough",
 	},
 	cretacialmaul: {
@@ -17284,7 +17284,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 			},
 			onResidualOrder: 7,
 			onResidual(pokemon) {
-				this.heal(pokemon.baseMaxhp / 6);
+				this.heal(pokemon.baseMaxhp / 8);
 			},
 			onTrapPokemon(pokemon) {
 				pokemon.tryTrap();
