@@ -83,6 +83,361 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 		desc: "This Pokemon's constricting moves have boosted damage at the end of turns",
 		shortDesc: "Turn based damage boosted by 30%"
 	},
+	cropdust: {
+        name: "Cropdust",
+        desc: "",
+        shortDesc: "Deals 2x damage to grass and flying pokemon"
+    },
+    cursedgrowth: {
+        name: "Cursed Growth",
+        desc: "",
+        shortDesc: "Boosts damage on Grass type attacks"
+    },
+    divination: {
+        name: "Divination",
+        desc: "",
+        shortDesc: "Sets future sight on entry"
+    },
+    draconicheritage: {
+        name: "Draconic Heritage",
+        desc: "",
+        shortDesc: "Dragon's Maw"
+    },
+    executioner: {
+        name: "Executioner",
+        desc: "",
+        shortDesc: "Moves power is doubled when opponent is below half HP"
+    },
+    falsepositive: {
+        name: "False Positive",
+        desc: "",
+        shortDesc: "Removes all status ailments and sends them back to the user"
+    },
+    fearaura: {
+        name: "Fear Aura",
+        desc: "",
+        shortDesc: "30% chance to cause Fear in target"
+    },
+    forager: {
+        name: "Forager",
+        desc: "",
+        shortDesc: "20% chance to find a random berry at the end of each turn"
+    },
+    frailskin: {
+        name: "Frail Skin",
+        desc: "",
+        shortDesc: "\"When hit with contact move"
+    },
+    fromtheashes: {
+        name: "From the Ashes",
+        desc: "",
+        shortDesc: "\"When hit to 0 HP"
+    },
+    frostedembrace: {
+        name: "Frosted Embrace",
+        desc: "",
+        shortDesc: "Opponents that make contact have lowered speed"
+    },
+    galeglider: {
+        name: "Galeglider",
+        desc: "",
+        shortDesc: "Gives Flying Type in Strong Winds"
+    },
+    gaseous: {
+        name: "Gaseous",
+        desc: "",
+        shortDesc: "Halfs Contact moves damage taken"
+    },
+    golemgrace: {
+        name: "Golem Grace",
+        desc: "",
+        shortDesc: "Changes mon to the best defensive type available"
+    },
+    gorgongaze: {
+        name: "Gorgon Gaze",
+        desc: "",
+        shortDesc: "Chance for Opponent to be frozen upon contact"
+    },
+    hellborn: {
+        name: "Hellborn",
+        desc: "",
+        shortDesc: "Gain boosted damage using Dark type moves"
+    },
+    honour: {
+        name: "Honour",
+        desc: "",
+        shortDesc: "Stats cannot be lowered by the user or against the user."
+    },
+    huntersmark: {
+        name: "Hunter's Mark",
+        desc: "",
+        shortDesc: "User and Target cannot switch out once attacked"
+    },
+    impaler: {
+        name: "Impaler",
+        desc: "",
+        shortDesc: "Increases stabbing moves damage"
+    },
+    innerpeace: {
+        name: "Inner Peace",
+        desc: "",
+        shortDesc: "Prevents Special Stats from being lowered"
+    },
+    jellyarmor: {
+        name: "Jelly Armor",
+        desc: "",
+        shortDesc: "Reflect damage from projectile moves."
+    },
+    leechingspirit: {
+        name: "Leeching Spirit",
+        desc: "",
+        shortDesc: "Applies curse when made contact"
+    },
+    lunarempress: {
+        name: "Lunar Empress",
+        desc: "",
+        shortDesc: "Negates Ghost and Dark type Weaknesses"
+    },
+    maelstrom: {
+        name: "Maelstrom",
+        desc: "",
+        shortDesc: "Summons Thunderstorm weather effect"
+    },
+    magmacore: {
+        name: "Magma Core",
+        desc: "",
+        shortDesc: "Does % damage to pokemon for existing"
+    },
+    mechanic: {
+        name: "Mechanic",
+        desc: "",
+        shortDesc: "Allows 10% Heal when using non-damaging attacks"
+    },
+    molten: {
+        name: "Molten",
+        desc: "",
+        shortDesc: "\"Can burn opponents when user uses a contact move"
+    },
+    nitrogenize: {
+        name: "Nitrogenize",
+        desc: "",
+        shortDesc: "All Ice attacks have a chance to burn"
+    },
+    noxiousskin: {
+        name: "Noxious Skin",
+        desc: "",
+        shortDesc: "Deals damage to attackers that make contact"
+    },
+    oceansblessing: {
+        name: "Ocean's Blessing",
+        desc: "",
+        shortDesc: "Increases Defenses in rain"
+    },
+    packhunter: {
+        name: "Pack Hunter",
+        desc: "",
+        shortDesc: "Increased Damage when in double or triple battles."
+    },
+    parasitic: {
+        name: "Parasitic",
+        desc: "",
+        shortDesc: "Restore 25% of damage dealt on Contact Moves"
+    },
+    petrify: {
+        name: "Petrify",
+        desc: "",
+        shortDesc: "Stops opponent from attacking on first turn after switching in"
+    },
+    photonic: {
+        name: "Photonic",
+        desc: "",
+        shortDesc: "\"Electric and Fire moves powers are boosted"
+    },
+    piercingarmor: {
+        name: "Piercing Armor",
+        desc: "",
+        shortDesc: "\"Deals Damage on Contact taken"
+    },
+    pondskipper: {
+        name: "Pond Skipper",
+        desc: "",
+        shortDesc: "Boosts Speed every turn in rain"
+    },
+    radiate: {
+        name: "Radiate",
+        desc: "",
+        shortDesc: "Poisons the opponent when they switch in"
+    },
+    reinforced: {
+        name: "Reinforced",
+        desc: "",
+        shortDesc: "Removes Recoil and Boosts recoil moves by 1.2x"
+    },
+    relentless: {
+        name: "Relentless",
+        desc: "",
+        shortDesc: "Ignores moves like Protect and Endure"
+    },
+    reptilian: {
+        name: "Reptilian",
+        desc: "",
+        shortDesc: "\"Heal 1/8th in the sun"
+    },
+    rhythm: {
+        name: "Rhythm",
+        desc: "",
+        shortDesc: "Prevents speed being lowered"
+    },
+    ruthless: {
+        name: "Ruthless",
+        desc: "",
+        shortDesc: "Always crit a statused target"
+    },
+    shrillvoice: {
+        name: "Shrill Voice",
+        desc: "",
+        shortDesc: "Boosts sound moves"
+    },
+    silkslinger: {
+        name: "Silk Slinger",
+        desc: "",
+        shortDesc: "All projectile moves are returned"
+    },
+    sinfulaura: {
+        name: "Sinful Aura",
+        desc: "",
+        shortDesc: "Dark type Pixilate"
+    },
+    slowmotion: {
+        name: "Slow Motion",
+        desc: "",
+        shortDesc: "Reverses priority of moves when in battle"
+    },
+    solsticecore: {
+        name: "Solstice Core",
+        desc: "",
+        shortDesc: "Dry Skin but ice not water"
+    },
+    spiritual: {
+        name: "Spiritual",
+        desc: "",
+        shortDesc: "Gives Stab bonus to Fairy type moves"
+    },
+    standoff: {
+        name: "Stand Off",
+        desc: "",
+        shortDesc: "Increases damage against pokemon that share a type with the user"
+    },
+    stunningentrance: {
+        name: "Stunning Entrance",
+        desc: "",
+        shortDesc: "Lowers speed stat when switch in"
+    },
+    sunrise: {
+        name: "Sunrise",
+        desc: "",
+        shortDesc: "Fire moves are super effective on ghost and dark types"
+    },
+    superiorzen: {
+        name: "Superior Zen",
+        desc: "",
+        shortDesc: "Turns all of the user's attacks into special moves"
+    },
+    survivalist: {
+        name: "Survivalist",
+        desc: "",
+        shortDesc: "\"During Weather effects"
+    },
+    temptress: {
+        name: "Temptress",
+        desc: "",
+        shortDesc: "Causes Infatuation on switch in"
+    },
+    territorial: {
+        name: "Territorial",
+        desc: "",
+        shortDesc: "Raises Speed when an opponent switches in"
+    },
+    tikimask: {
+        name: "Tiki Mask",
+        desc: "",
+        shortDesc: "\"Gives substitute "
+    },
+    truesight: {
+        name: "Truesight",
+        desc: "",
+        shortDesc: "Can hit all types regardless of immunities"
+    },
+    unarmoured: {
+        name: "Unarmoured",
+        desc: "",
+        shortDesc: "All Contact moves against this pokemon are critcal"
+    },
+    underdog: {
+        name: "Underdog",
+        desc: "",
+        shortDesc: "Doubled speed when at a lower HP than the opponent"
+    },
+    unwaveringfocus: {
+        name: "Unwavering Focus",
+        desc: "",
+        shortDesc: "This Pokemon will always land its attacks"
+    },
+    vaccine: {
+        name: "Vaccine",
+        desc: "",
+        shortDesc: "Removes Status at the end of turn"
+    },
+    vampiric: {
+        name: "Vampiric",
+        desc: "",
+        shortDesc: "Restore 50% of damage dealt on Biting Moves"
+    },
+    venomous: {
+        name: "Venomous",
+        desc: "",
+        shortDesc: "This Pokemon gains stab on Poison type attacks"
+    },
+    warcry: {
+        name: "War Cry",
+        desc: "",
+        shortDesc: "Lowers enemy Defense Upon switch in"
+    },
+    bodycount: {
+        name: "Body Count",
+        desc: "",
+        shortDesc: "\"Moves Power x0.33"
+    },
+    widowsbite: {
+        name: "Widow's Bite",
+        desc: "",
+        shortDesc: "Grudge if u get killed by contact move"
+    },
+    wildfire: {
+        name: "Wildfire",
+        desc: "",
+        shortDesc: "Adds 10 power to consequetively used fire moves"
+    },
+    wither: {
+        name: "Wither",
+        desc: "",
+        shortDesc: "Lowers Opponents Sp Atk when entering the battle"
+    },
+    magmapool: {
+        name: "Magma Pool",
+        desc: "",
+        shortDesc: "Heals from fire moves"
+    },
+    seeingred: {
+        name: "Seeing Red",
+        desc: "",
+        shortDesc: "#ERROR!"
+    },
+    vacuum: {
+        name: "Vacuum",
+        desc: "",
+        shortDesc: "Wind Moves get converted to Health"
+    },
 	adaptability: {
 		name: "Adaptability",
 		desc: "This Pokemon's moves that match one of its types have a same-type attack bonus (STAB) of 2 instead of 1.5.",
