@@ -3764,1223 +3764,1219 @@ export const PokedexText: {[k: string]: PokedexText} = {
 	pokestarufopropu2: {
 		name: "Pokestar UFO-PropU2",
 	},
-	
-    "pegane": {
-        "name": "Pegane"
+	pegane: {
+        name: "Pegane"
     },
-    "venagus": {
-        "name": "Venagus"
+    venagus: {
+        name: "Venagus"
     },
-    "plagasus": {
-        "name": "Plagasus"
+    plagasus: {
+        name: "Plagasus"
     },
-    "snogon": {
-        "name": "Snogon"
+    snogon: {
+        name: "Snogon"
     },
-    "goraze": {
-        "name": "Goraze"
+    goraze: {
+        name: "Goraze"
     },
-    "gordusa": {
-        "name": "Gordusa"
+    gordusa: {
+        name: "Gordusa"
     },
-    "taurull": {
-        "name": "Taurull"
+    taurull: {
+        name: "Taurull"
     },
-    "minomech": {
-        "name": "Minomech"
+    minomech: {
+        name: "Minomech"
     },
-    "matretaur": {
-        "name": "Matretaur"
+    matretaur: {
+        name: "Matretaur"
     },
-    "hagu": {
-        "name": "Hagu"
+    hagu: {
+        name: "Hagu"
     },
-    "hagulae": {
-        "name": "Hagulae"
+    hagulae: {
+        name: "Hagulae"
     },
-    "hagufate": {
-        "name": "Hagufate"
+    hagufate: {
+        name: "Hagufate"
     },
-    "mekes": {
-        "name": "Mekes"
+    mekes: {
+        name: "Mekes"
     },
-    "chrysekes": {
-        "name": "Chrysekes"
+    chrysekes: {
+        name: "Chrysekes"
     },
-    "wyrmekes": {
-        "name": "Wyrmekes"
+    wyrmekes: {
+        name: "Wyrmekes"
     },
-    "siriver": {
-        "name": "Siriver"
+    siriver: {
+        name: "Siriver"
     },
-    "searen": {
-        "name": "Searen"
+    searen: {
+        name: "Searen"
     },
-    "tsunaren": {
-        "name": "Tsunaren"
+    tsunaren: {
+        name: "Tsunaren"
     },
-    "catoffalo": {
-        "name": "Catoffalo"
+    catoffalo: {
+        name: "Catoffalo"
     },
-    "drollepas": {
-        "name": "Drollepas"
+    drollepas: {
+        name: "Drollepas"
     },
-    "greffin": {
-        "name": "Greffin"
+    greffin: {
+        name: "Greffin"
     },
-    "gryfaun": {
-        "name": "Gryfaun"
+    gryfaun: {
+        name: "Gryfaun"
     },
-    "gryfantle": {
-        "name": "Gryfantle"
+    gryfantle: {
+        name: "Gryfantle"
     },
-    "araqmite": {
-        "name": "Araqmite"
+    araqmite: {
+        name: "Araqmite"
     },
-    "stalantula": {
-        "name": "Stalantula"
+    stalantula: {
+        name: "Stalantula"
     },
-    "allowatt": {
-        "name": "Allowatt"
+    allowatt: {
+        name: "Allowatt"
     },
-    "allopere": {
-        "name": "Allopere"
+    allopere: {
+        name: "Allopere"
     },
-    "crustark": {
-        "name": "Crustark"
+    crustark: {
+        name: "Crustark"
     },
-    "skarmish": {
-        "name": "Skarmish"
+    skarmish: {
+        name: "Skarmish"
     },
-    "ganikinos": {
-        "name": "Ganikinos"
+    ganikinos: {
+        name: "Ganikinos"
     },
-    "hootiny": {
-        "name": "Hootiny"
+    hootiny: {
+        name: "Hootiny"
     },
-    "nocteena": {
-        "name": "Nocteena"
+    nocteena: {
+        name: "Nocteena"
     },
-    "hahootination": {
-        "name": "Hahootination"
+    hahootination: {
+        name: "Hahootination"
     },
-    "pygmini": {
-        "name": "Pygmini"
+    pygmini: {
+        name: "Pygmini"
     },
-    "kelampus": {
-        "name": "Kelampus"
+    kelampus: {
+        name: "Kelampus"
     },
-    "teuvenger": {
-        "name": "Teuvenger"
+    teuvenger: {
+        name: "Teuvenger"
     },
-    "tadpoke": {
-        "name": "Tadpoke"
+    tadpoke: {
+        name: "Tadpoke"
     },
-    "toakwando": {
-        "name": "Toakwando"
+    toakwando: {
+        name: "Toakwando"
     },
-    "tungfu": {
-        "name": "Tungfu"
+    tungfu: {
+        name: "Tungfu"
     },
-    "reptiah": {
-        "name": "Reptiah"
+    reptiah: {
+        name: "Reptiah"
     },
-    "prophegator": {
-        "name": "Prophegator"
+    prophegator: {
+        name: "Prophegator"
     },
-    "sarcobral": {
-        "name": "Sarcobral"
+    sarcobral: {
+        name: "Sarcobral"
     },
-    "cerekapro": {
-        "name": "Cerekapro"
+    cerekapro: {
+        name: "Cerekapro"
     },
-    "appreti": {
-        "name": "Appreti"
+    appreti: {
+        name: "Appreti"
     },
-    "martialeti": {
-        "name": "Martialeti"
+    martialeti: {
+        name: "Martialeti"
     },
-    "deproth": {
-        "name": "Deproth"
+    deproth: {
+        name: "Deproth"
     },
-    "babression": {
-        "name": "Babression"
+    babression: {
+        name: "Babression"
     },
-    "depandrill": {
-        "name": "Depandrill"
+    depandrill: {
+        name: "Depandrill"
     },
-    "kinertz": {
-        "name": "Kinertz"
+    kinertz: {
+        name: "Kinertz"
     },
-    "potoltage": {
-        "name": "Potoltage"
+    potoltage: {
+        name: "Potoltage"
     },
-    "vitalysis": {
-        "name": "Vitalysis"
+    vitalysis: {
+        name: "Vitalysis"
     },
-    "anaphyletric": {
-        "name": "Anaphyletric"
+    anaphyletric: {
+        name: "Anaphyletric"
     },
-    "egynx": {
-        "name": "Egynx"
+    egynx: {
+        name: "Egynx"
     },
-    "riddypt": {
-        "name": "Riddypt"
+    riddypt: {
+        name: "Riddypt"
     },
-    "purrforynx": {
-        "name": "Purrforynx"
+    purrforynx: {
+        name: "Purrforynx"
     },
-    "miserpy": {
-        "name": "Miserpy"
+    miserpy: {
+        name: "Miserpy"
     },
-    "inflocktion": {
-        "name": "Inflocktion"
+    inflocktion: {
+        name: "Inflocktion"
     },
-    "flierarchy": {
-        "name": "Flierarchy"
+    flierarchy: {
+        name: "Flierarchy"
     },
-    "yintrum": {
-        "name": "Yintrum"
+    yintrum: {
+        name: "Yintrum"
     },
-    "yanquil": {
-        "name": "Yanquil"
+    yanquil: {
+        name: "Yanquil"
     },
-    "zenriest": {
-        "name": "Zenriest"
+    zenriest: {
+        name: "Zenriest"
     },
-    "uki": {
-        "name": "Uki"
+    uki: {
+        name: "Uki"
     },
-    "ukitter": {
-        "name": "Ukitter"
+    ukitter: {
+        name: "Ukitter"
     },
-    "ukerial": {
-        "name": "Ukerial"
+    ukerial: {
+        name: "Ukerial"
     },
-    "scorath": {
-        "name": "Scorath"
+    scorath: {
+        name: "Scorath"
     },
-    "armopoda": {
-        "name": "Armopoda"
+    armopoda: {
+        name: "Armopoda"
     },
-    "armorpion": {
-        "name": "Armorpion"
+    armorpion: {
+        name: "Armorpion"
     },
-    "boonique": {
-        "name": "Boonique"
+    boonique: {
+        name: "Boonique"
     },
-    "boosh": {
-        "name": "Boosh"
+    boosh: {
+        name: "Boosh"
     },
-    "spirihit": {
-        "name": "Spirihit"
+    spirihit: {
+        name: "Spirihit"
     },
-    "bespook": {
-        "name": "Bespook"
+    bespook: {
+        name: "Bespook"
     },
-    "paranorpol": {
-        "name": "Paranorpol"
+    paranorpol: {
+        name: "Paranorpol"
     },
-    "feymur": {
-        "name": "Feymur"
+    feymur: {
+        name: "Feymur"
     },
-    "fleymur": {
-        "name": "Fleymur"
+    fleymur: {
+        name: "Fleymur"
     },
-    "mortarmur": {
-        "name": "Mortarmur"
+    mortarmur: {
+        name: "Mortarmur"
     },
-    "voltoof": {
-        "name": "Voltoof"
+    voltoof: {
+        name: "Voltoof"
     },
-    "timberam": {
-        "name": "Timberam"
+    timberam: {
+        name: "Timberam"
     },
-    "swaxic": {
-        "name": "Swaxic"
+    swaxic: {
+        name: "Swaxic"
     },
-    "murmarsh": {
-        "name": "Murmarsh"
+    murmarsh: {
+        name: "Murmarsh"
     },
-    "hammark": {
-        "name": "Hammark"
+    hammark: {
+        name: "Hammark"
     },
-    "steahamark": {
-        "name": "Steahamark"
+    steahamark: {
+        name: "Steahamark"
     },
-    "phaestamark": {
-        "name": "Phaestamark"
+    phaestamark: {
+        name: "Phaestamark"
     },
-    "carniveel": {
-        "name": "Carniveel"
+    carniveel: {
+        name: "Carniveel"
     },
-    "drecko": {
-        "name": "Drecko"
+    drecko: {
+        name: "Drecko"
     },
-    "dracorok": {
-        "name": "Dracorok"
+    dracorok: {
+        name: "Dracorok"
     },
-    "mounteleon": {
-        "name": "Mounteleon"
+    mounteleon: {
+        name: "Mounteleon"
     },
-    "i.": {
-        "name": "I."
+    in: {
+        name: "I. N."
     },
-    "centriot": {
-        "name": "Centriot"
+    centriot: {
+        name: "Centriot"
     },
-    "zentis": {
-        "name": "Zentis"
+    zentis: {
+        name: "Zentis"
     },
-    "medizen": {
-        "name": "Medizen"
+    medizen: {
+        name: "Medizen"
     },
-    "prayzen": {
-        "name": "Prayzen"
+    prayzen: {
+        name: "Prayzen"
     },
-    "corean": {
-        "name": "Corean"
+    corean: {
+        name: "Corean"
     },
-    "archorean": {
-        "name": "Archorean"
+    archorean: {
+        name: "Archorean"
     },
-    "felynx": {
-        "name": "Felynx"
+    felynx: {
+        name: "Felynx"
     },
-    "lymbynx": {
-        "name": "Lymbynx"
+    lymbynx: {
+        name: "Lymbynx"
     },
-    "desquire": {
-        "name": "Desquire"
+    desquire: {
+        name: "Desquire"
     },
-    "defaith": {
-        "name": "Defaith"
+    defaith: {
+        name: "Defaith"
     },
-    "defonour": {
-        "name": "Defonour"
+    defonour: {
+        name: "Defonour"
     },
-    "destrayal": {
-        "name": "Destrayal"
+    destrayal: {
+        name: "Destrayal"
     },
-    "manrawin": {
-        "name": "Manrawin"
+    manrawin: {
+        name: "Manrawin"
     },
-    "wolviate": {
-        "name": "Wolviate"
+    wolviate: {
+        name: "Wolviate"
     },
-    "lycanobyl": {
-        "name": "Lycanobyl"
+    lycanobyl: {
+        name: "Lycanobyl"
     },
-    "chucubra": {
-        "name": "Chucubra"
+    chucubra: {
+        name: "Chucubra"
     },
-    "chupaprace": {
-        "name": "Chupaprace"
+    chupaprace: {
+        name: "Chupaprace"
     },
-    "terracabra": {
-        "name": "Terracabra"
+    terracabra: {
+        name: "Terracabra"
     },
-    "cycliner": {
-        "name": "Cycliner"
+    cycliner: {
+        name: "Cycliner"
     },
-    "spelyclops": {
-        "name": "Spelyclops"
+    spelyclops: {
+        name: "Spelyclops"
     },
-    "kyvolt": {
-        "name": "Kyvolt"
+    kyvolt: {
+        name: "Kyvolt"
     },
-    "kybohm": {
-        "name": "Kybohm"
+    kybohm: {
+        name: "Kybohm"
     },
-    "froose": {
-        "name": "Froose"
+    froose: {
+        name: "Froose"
     },
-    "moosicle": {
-        "name": "Moosicle"
+    moosicle: {
+        name: "Moosicle"
     },
-    "junra": {
-        "name": "Junra"
+    junra: {
+        name: "Junra"
     },
-    "gojukuda": {
-        "name": "Gojukuda"
+    gojukuda: {
+        name: "Gojukuda"
     },
-    "scraplet": {
-        "name": "Scraplet"
+    scraplet: {
+        name: "Scraplet"
     },
-    "boarpath": {
-        "name": "Boarpath"
+    boarpath: {
+        name: "Boarpath"
     },
-    "icito": {
-        "name": "Icito"
+    icito: {
+        name: "Icito"
     },
-    "frosquito": {
-        "name": "Frosquito"
+    frosquito: {
+        name: "Frosquito"
     },
-    "succubush": {
-        "name": "Succubush"
+    succubush: {
+        name: "Succubush"
     },
-    "axolittle": {
-        "name": "Axolittle"
+    axolittle: {
+        name: "Axolittle"
     },
-    "ambycoal": {
-        "name": "Ambycoal"
+    ambycoal: {
+        name: "Ambycoal"
     },
-    "novalotl": {
-        "name": "Novalotl"
+    novalotl: {
+        name: "Novalotl"
     },
-    "cephaqua": {
-        "name": "Cephaqua"
+    cephaqua: {
+        name: "Cephaqua"
     },
-    "constethulu": {
-        "name": "Constethulu"
+    constethulu: {
+        name: "Constethulu"
     },
-    "draby": {
-        "name": "Draby"
+    draby: {
+        name: "Draby"
     },
-    "dranova": {
-        "name": "Dranova"
+    dranova: {
+        name: "Dranova"
     },
-    "drabloom": {
-        "name": "Drabloom"
+    drabloom: {
+        name: "Drabloom"
     },
-    "drarate": {
-        "name": "Drarate"
+    drarate: {
+        name: "Drarate"
     },
-    "draquake": {
-        "name": "Draquake"
+    draquake: {
+        name: "Draquake"
     },
-    "dranyon": {
-        "name": "Dranyon"
+    dranyon: {
+        name: "Dranyon"
     },
-    "drachaun": {
-        "name": "Drachaun"
+    drachaun: {
+        name: "Drachaun"
     },
-    "octern": {
-        "name": "Octern"
+    octern: {
+        name: "Octern"
     },
-    "doctopus": {
-        "name": "Doctopus"
+    doctopus: {
+        name: "Doctopus"
     },
-    "octopsy": {
-        "name": "Octopsy"
+    octopsy: {
+        name: "Octopsy"
     },
-    "blat": {
-        "name": "Blat"
+    blat: {
+        name: "Blat"
     },
-    "vampyre": {
-        "name": "Vampyre"
+    vampyre: {
+        name: "Vampyre"
     },
-    "counsol": {
-        "name": "Counsol"
+    counsol: {
+        name: "Counsol"
     },
-    "carcasnix": {
-        "name": "Carcasnix"
+    carcasnix: {
+        name: "Carcasnix"
     },
-    "miaskma": {
-        "name": "Miaskma"
+    miaskma: {
+        name: "Miaskma"
     },
-    "damaskma": {
-        "name": "Damaskma"
+    damaskma: {
+        name: "Damaskma"
     },
-    "plagasma": {
-        "name": "Plagasma"
+    plagasma: {
+        name: "Plagasma"
     },
-    "dirm": {
-        "name": "Dirm"
+    dirm: {
+        name: "Dirm"
     },
-    "chasorm": {
-        "name": "Chasorm"
+    chasorm: {
+        name: "Chasorm"
     },
-    "sektylo": {
-        "name": "Sektylo"
+    sektylo: {
+        name: "Sektylo"
     },
-    "mangisekto": {
-        "name": "Mangisekto"
+    mangisekto: {
+        name: "Mangisekto"
     },
-    "ninguin": {
-        "name": "Ninguin"
+    ninguin: {
+        name: "Ninguin"
     },
-    "shuriguin": {
-        "name": "Shuriguin"
+    shuriguin: {
+        name: "Shuriguin"
     },
-    "hummzinger": {
-        "name": "Hummzinger"
+    hummzinger: {
+        name: "Hummzinger"
     },
-    "baaly": {
-        "name": "Baaly"
+    baaly: {
+        name: "Baaly"
     },
-    "rambonkin": {
-        "name": "Rambonkin"
+    rambonkin: {
+        name: "Rambonkin"
     },
-    "mernox": {
-        "name": "Mernox"
+    mernox: {
+        name: "Mernox"
     },
-    "mervenom": {
-        "name": "Mervenom"
+    mervenom: {
+        name: "Mervenom"
     },
-    "narwimp": {
-        "name": "Narwimp"
+    narwimp: {
+        name: "Narwimp"
     },
-    "narfarious": {
-        "name": "Narfarious"
+    narfarious: {
+        name: "Narfarious"
     },
-    "tikape": {
-        "name": "Tikape"
+    tikape: {
+        name: "Tikape"
     },
-    "goriki": {
-        "name": "Goriki"
+    goriki: {
+        name: "Goriki"
     },
-    "tikikong": {
-        "name": "Tikikong"
+    tikikong: {
+        name: "Tikikong"
     },
-    "charsoon": {
-        "name": "Charsoon"
+    charsoon: {
+        name: "Charsoon"
     },
-    "whirlydis": {
-        "name": "Whirlydis"
+    whirlydis: {
+        name: "Whirlydis"
     },
-    "psypent": {
-        "name": "Psypent"
+    psypent: {
+        name: "Psypent"
     },
-    "mystdra": {
-        "name": "Mystdra"
+    mystdra: {
+        name: "Mystdra"
     },
-    "hydoracle": {
-        "name": "Hydoracle"
+    hydoracle: {
+        name: "Hydoracle"
     },
-    "dellin": {
-        "name": "Dellin"
+    dellin: {
+        name: "Dellin"
     },
-    "halestial": {
-        "name": "Halestial"
+    halestial: {
+        name: "Halestial"
     },
-    "valhangel": {
-        "name": "Valhangel"
+    valhangel: {
+        name: "Valhangel"
     },
-    "devastly": {
-        "name": "Devastly"
+    devastly: {
+        name: "Devastly"
     },
-    "lucangel": {
-        "name": "Lucangel"
+    lucangel: {
+        name: "Lucangel"
     },
-    "ignix": {
-        "name": "Ignix"
+    ignix: {
+        name: "Ignix"
     },
-    "pyrectix": {
-        "name": "Pyrectix"
+    pyrectix: {
+        name: "Pyrectix"
     },
-    "drakyk": {
-        "name": "Drakyk"
+    drakyk: {
+        name: "Drakyk"
     },
-    "kraloch": {
-        "name": "Kraloch"
+    kraloch: {
+        name: "Kraloch"
     },
-    "salyrant": {
-        "name": "Salyrant"
+    salyrant: {
+        name: "Salyrant"
     },
-    "tremold": {
-        "name": "Tremold"
+    tremold: {
+        name: "Tremold"
     },
-    "komouldo": {
-        "name": "Komouldo"
+    komouldo: {
+        name: "Komouldo"
     },
-    "cubunch": {
-        "name": "Cubunch"
+    cubunch: {
+        name: "Cubunch"
     },
-    "dojursa": {
-        "name": "Dojursa"
+    dojursa: {
+        name: "Dojursa"
     },
-    "grizzudo": {
-        "name": "Grizzudo"
+    grizzudo: {
+        name: "Grizzudo"
     },
-    "volchic": {
-        "name": "Volchic"
+    volchic: {
+        name: "Volchic"
     },
-    "roosolar": {
-        "name": "Roosolar"
+    roosolar: {
+        name: "Roosolar"
     },
-    "vipierce": {
-        "name": "Vipierce"
+    vipierce: {
+        name: "Vipierce"
     },
-    "ceramstes": {
-        "name": "Ceramstes"
+    ceramstes: {
+        name: "Ceramstes"
     },
-    "cerone": {
-        "name": "Cerone"
+    cerone: {
+        name: "Cerone"
     },
-    "mareberus": {
-        "name": "Mareberus"
+    mareberus: {
+        name: "Mareberus"
     },
-    "foalmise": {
-        "name": "Foalmise"
+    foalmise: {
+        name: "Foalmise"
     },
-    "neightmare": {
-        "name": "Neightmare"
+    neightmare: {
+        name: "Neightmare"
     },
-    "lilpine": {
-        "name": "Lilpine"
+    lilpine: {
+        name: "Lilpine"
     },
-    "marpine": {
-        "name": "Marpine"
+    marpine: {
+        name: "Marpine"
     },
-    "biappa": {
-        "name": "Biappa"
+    biappa: {
+        name: "Biappa"
     },
-    "appasky": {
-        "name": "Appasky"
+    appasky: {
+        name: "Appasky"
     },
-    "parafullo": {
-        "name": "Parafullo"
+    parafullo: {
+        name: "Parafullo"
     },
-    "jelava": {
-        "name": "Jelava"
+    jelava: {
+        name: "Jelava"
     },
-    "magmelly": {
-        "name": "Magmelly"
+    magmelly: {
+        name: "Magmelly"
     },
-    "amphawkes": {
-        "name": "Amphawkes"
+    amphawkes: {
+        name: "Amphawkes"
     },
-    "salasander": {
-        "name": "Salasander"
+    salasander: {
+        name: "Salasander"
     },
-    "dampling": {
-        "name": "Dampling"
+    dampling: {
+        name: "Dampling"
     },
-    "hurricrane": {
-        "name": "Hurricrane"
+    hurricrane: {
+        name: "Hurricrane"
     },
-    "lampire": {
-        "name": "Lampire"
+    lampire: {
+        name: "Lampire"
     },
-    "laveba": {
-        "name": "Laveba"
+    laveba: {
+        name: "Laveba"
     },
-    "laphorlamp": {
-        "name": "Laphorlamp"
+    laphorlamp: {
+        name: "Laphorlamp"
     },
-    "piscurtle": {
-        "name": "Piscurtle"
+    piscurtle: {
+        name: "Piscurtle"
     },
-    "agurtle": {
-        "name": "Agurtle"
+    agurtle: {
+        name: "Agurtle"
     },
-    "weatherback": {
-        "name": "Weatherback"
+    weatherback: {
+        name: "Weatherback"
     },
-    "deserolin": {
-        "name": "Deserolin"
+    deserolin: {
+        name: "Deserolin"
     },
-    "drakolin": {
-        "name": "Drakolin"
+    drakolin: {
+        name: "Drakolin"
     },
-    "drakolarmor": {
-        "name": "Drakolarmor"
+    drakolarmor: {
+        name: "Drakolarmor"
     },
-    "puppyre": {
-        "name": "Puppyre"
+    puppyre: {
+        name: "Puppyre"
     },
-    "inferthrope": {
-        "name": "Inferthrope"
+    inferthrope: {
+        name: "Inferthrope"
     },
-    "skelegram": {
-        "name": "Skelegram"
+    skelegram: {
+        name: "Skelegram"
     },
-    "skeleavy": {
-        "name": "Skeleavy"
+    skeleavy: {
+        name: "Skeleavy"
     },
-    "skulletonne": {
-        "name": "Skulletonne"
+    skulletonne: {
+        name: "Skulletonne"
     },
-    "termuny": {
-        "name": "Termuny"
+    termuny: {
+        name: "Termuny"
     },
-    "terrormite": {
-        "name": "Terrormite"
+    terrormite: {
+        name: "Terrormite"
     },
-    "corake": {
-        "name": "Corake"
+    corake: {
+        name: "Corake"
     },
-    "venamba": {
-        "name": "Venamba"
+    venamba: {
+        name: "Venamba"
     },
-    "anaconxious": {
-        "name": "Anaconxious"
+    anaconxious: {
+        name: "Anaconxious"
     },
-    "slugnant": {
-        "name": "Slugnant"
+    slugnant: {
+        name: "Slugnant"
     },
-    "slumucus": {
-        "name": "Slumucus"
+    slumucus: {
+        name: "Slumucus"
     },
-    "golost": {
-        "name": "Golost"
+    golost: {
+        name: "Golost"
     },
-    "titectre": {
-        "name": "Titectre"
+    titectre: {
+        name: "Titectre"
     },
-    "stalagtergeist": {
-        "name": "Stalagtergeist"
+    stalagtergeist: {
+        name: "Stalagtergeist"
     },
-    "falust": {
-        "name": "Falust"
+    falust: {
+        name: "Falust"
     },
-    "falreeze": {
-        "name": "Falreeze"
+    falreeze: {
+        name: "Falreeze"
     },
-    "falnado": {
-        "name": "Falnado"
+    falnado: {
+        name: "Falnado"
     },
-    "gastroble": {
-        "name": "Gastroble"
+    gastroble: {
+        name: "Gastroble"
     },
-    "mollucone": {
-        "name": "Mollucone"
+    mollucone: {
+        name: "Mollucone"
     },
-    "larvaby": {
-        "name": "Larvaby"
+    larvaby: {
+        name: "Larvaby"
     },
-    "chryield": {
-        "name": "Chryield"
+    chryield: {
+        name: "Chryield"
     },
-    "crickmire": {
-        "name": "Crickmire"
+    crickmire: {
+        name: "Crickmire"
     },
-    "crickoat": {
-        "name": "Crickoat"
+    crickoat: {
+        name: "Crickoat"
     },
-    "disaspider": {
-        "name": "Disaspider"
+    disaspider: {
+        name: "Disaspider"
     },
-    "orbider": {
-        "name": "Orbider"
+    orbider: {
+        name: "Orbider"
     },
-    "chryalat": {
-        "name": "Chryalat"
+    chryalat: {
+        name: "Chryalat"
     },
-    "vesplume": {
-        "name": "Vesplume"
+    vesplume: {
+        name: "Vesplume"
     },
-    "vesplatinum": {
-        "name": "Vesplatinum"
+    vesplatinum: {
+        name: "Vesplatinum"
     },
-    "grapeetle": {
-        "name": "Grapeetle"
+    grapeetle: {
+        name: "Grapeetle"
     },
-    "foleetle": {
-        "name": "Foleetle"
+    foleetle: {
+        name: "Foleetle"
     },
-    "calimare": {
-        "name": "Calimare"
+    calimare: {
+        name: "Calimare"
     },
-    "cepharbon": {
-        "name": "Cepharbon"
+    cepharbon: {
+        name: "Cepharbon"
     },
-    "abyssquid": {
-        "name": "Abyssquid"
+    abyssquid: {
+        name: "Abyssquid"
     },
-    "zhouptor": {
-        "name": "Zhouptor"
+    zhouptor: {
+        name: "Zhouptor"
     },
-    "junzhou": {
-        "name": "Junzhou"
+    junzhou: {
+        name: "Junzhou"
     },
-    "furianzhou": {
-        "name": "Furianzhou"
+    furianzhou: {
+        name: "Furianzhou"
     },
-    "emtap": {
-        "name": "Emtap"
+    emtap: {
+        name: "Emtap"
     },
-    "flajara": {
-        "name": "Flajara"
+    flajara: {
+        name: "Flajara"
     },
-    "tapinfera": {
-        "name": "Tapinfera"
+    tapinfera: {
+        name: "Tapinfera"
     },
-    "anklace": {
-        "name": "Anklace"
+    anklace: {
+        name: "Anklace"
     },
-    "ankevlar": {
-        "name": "Ankevlar"
+    ankevlar: {
+        name: "Ankevlar"
     },
-    "ankorient": {
-        "name": "Ankorient"
+    ankorient: {
+        name: "Ankorient"
     },
-    "recryes": {
-        "name": "Recryes"
+    recryes: {
+        name: "Recryes"
     },
-    "odivalk": {
-        "name": "Odivalk"
+    odivalk: {
+        name: "Odivalk"
     },
-    "valkischief": {
-        "name": "Valkischief"
+    valkischief: {
+        name: "Valkischief"
     },
-    "dunush": {
-        "name": "Dunush"
+    dunush: {
+        name: "Dunush"
     },
-    "vicisteus": {
-        "name": "Vicisteus"
+    vicisteus: {
+        name: "Vicisteus"
     },
-    "reckleosteus": {
-        "name": "Reckleosteus"
+    reckleosteus: {
+        name: "Reckleosteus"
     },
-    "porcupulse": {
-        "name": "Porcupulse"
+    porcupulse: {
+        name: "Porcupulse"
     },
-    "cublaze": {
-        "name": "Cublaze"
+    cublaze: {
+        name: "Cublaze"
     },
-    "solursa": {
-        "name": "Solursa"
+    solursa: {
+        name: "Solursa"
     },
-    "albafrost": {
-        "name": "Albafrost"
+    albafrost: {
+        name: "Albafrost"
     },
-    "permatross": {
-        "name": "Permatross"
+    permatross: {
+        name: "Permatross"
     },
-    "sickwea": {
-        "name": "Sickwea"
+    sickwea: {
+        name: "Sickwea"
     },
-    "ferrickle": {
-        "name": "Ferrickle"
+    ferrickle: {
+        name: "Ferrickle"
     },
-    "scythatchi": {
-        "name": "Scythatchi"
+    scythatchi: {
+        name: "Scythatchi"
     },
-    "tsunamid": {
-        "name": "Tsunamid"
+    tsunamid: {
+        name: "Tsunamid"
     },
-    "erothys": {
-        "name": "Erothys"
+    erothys: {
+        name: "Erothys"
     },
-    "mortilance": {
-        "name": "Mortilance"
+    mortilance: {
+        name: "Mortilance"
     },
-    "luminilver": {
-        "name": "Luminilver"
+    luminilver: {
+        name: "Luminilver"
     },
-    "coeisdom": {
-        "name": "Coeisdom"
+    coeisdom: {
+        name: "Coeisdom"
     },
-    "phanacy": {
-        "name": "Phanacy"
+    phanacy: {
+        name: "Phanacy"
     },
-    "zodelandar": {
-        "name": "Zodelandar"
+    zodelandar: {
+        name: "Zodelandar"
     },
-    "forgeitymn": {
-        "name": "Forgeitymn"
+    forgeitymn: {
+        name: "Forgeitymn"
     },
-    "juriatal": {
-        "name": "Juriatal"
+    juriatal: {
+        name: "Juriatal"
     },
-    "trustice": {
-        "name": "Trustice"
+    trustice: {
+        name: "Trustice"
     },
-    "infonus": {
-        "name": "Infonus"
+    infonus: {
+        name: "Infonus"
     },
-    "fertiferus": {
-        "name": "Fertiferus"
+    fertiferus: {
+        name: "Fertiferus"
     },
-    "jigsabyte-m": {
-        "name": "Jigsabyte-M"
+    jigsabytem: {
+        name: "Jigsabyte-M"
     },
-    "jigsabyte-s": {
-        "name": "Jigsabyte-S"
+    jigsabytes: {
+        name: "Jigsabyte-S"
     },
-    "jigsabyte-p": {
-        "name": "Jigsabyte-P"
+    jigsabytep: {
+        name: "Jigsabyte-P"
     },
-    "jigsabyte-a": {
-        "name": "Jigsabyte-A"
+    jigsabytea: {
+        name: "Jigsabyte-A"
     },
-    "jigsabyte-d": {
-        "name": "Jigsabyte-D"
+    jigsabyted: {
+        name: "Jigsabyte-D"
     },
-    "jigsabyte-i": {
-        "name": "Jigsabyte-I"
+    jigsabytei: {
+        name: "Jigsabyte-I"
     },
-    "jigsabyte-v": {
-        "name": "Jigsabyte-V"
+    jigsabytev: {
+        name: "Jigsabyte-V"
     },
-    "pisbug": {
-        "name": "Pisbug"
+    pisbug: {
+        name: "Pisbug"
     },
-    "petarcass": {
-        "name": "Petarcass"
+    petarcass: {
+        name: "Petarcass"
     },
-    "nineque": {
-        "name": "Nineque"
+    nineque: {
+        name: "Nineque"
     },
-    "thefchan": {
-        "name": "Thefchan"
+    thefchan: {
+        name: "Thefchan"
     },
-    "brojito": {
-        "name": "Brojito"
+    brojito: {
+        name: "Brojito"
     },
-    "mosjito": {
-        "name": "Mosjito"
+    mosjito: {
+        name: "Mosjito"
     },
-    "dustandr": {
-        "name": "Dustandr"
+    dustandr: {
+        name: "Dustandr"
     },
-    "jormrust": {
-        "name": "Jormrust"
+    jormrust: {
+        name: "Jormrust"
     },
-    "subterrandr": {
-        "name": "Subterrandr"
+    subterrandr: {
+        name: "Subterrandr"
     },
-    "orplink": {
-        "name": "Orplink"
+    orplink: {
+        name: "Orplink"
     },
-    "satellity": {
-        "name": "Satellity"
+    satellity: {
+        name: "Satellity"
     },
-    "saigeta": {
-        "name": "Saigeta"
+    saigeta: {
+        name: "Saigeta"
     },
-    "kakarraiyan": {
-        "name": "Kakarraiyan"
+    kakarraiyan: {
+        name: "Kakarraiyan"
     },
-    "plaguerca": {
-        "name": "Plaguerca"
+    plaguerca: {
+        name: "Plaguerca"
     },
-    "dolpder": {
-        "name": "Dolpder"
+    dolpder: {
+        name: "Dolpder"
     },
-    "genorcade": {
-        "name": "Genorcade"
+    genorcade: {
+        name: "Genorcade"
     },
-    "cherubble": {
-        "name": "Cherubble"
+    cherubble: {
+        name: "Cherubble"
     },
-    "chemerufe": {
-        "name": "Chemerufe"
+    chemerufe: {
+        name: "Chemerufe"
     },
-    "volcarufe": {
-        "name": "Volcarufe"
+    volcarufe: {
+        name: "Volcarufe"
     },
-    "bzzug": {
-        "name": "Bzzug"
+    bzzug: {
+        name: "Bzzug"
     },
-    "bzzuzzg": {
-        "name": "Bzzuzzg"
+    bzzuzzg: {
+        name: "Bzzuzzg"
     },
-    "bzzuzzuzzg": {
-        "name": "Bzzuzzuzzg"
+    bzzuzzuzzg: {
+        name: "Bzzuzzuzzg"
     },
-    "frusk": {
-        "name": "Frusk"
+    frusk: {
+        name: "Frusk"
     },
-    "goroadsion": {
-        "name": "Goroadsion"
+    goroadsion: {
+        name: "Goroadsion"
     },
-    "tectonitoad": {
-        "name": "Tectonitoad"
+    tectonitoad: {
+        name: "Tectonitoad"
     },
-    "arcangran": {
-        "name": "Arcangran"
+    arcangran: {
+        name: "Arcangran"
     },
-    "quendrill": {
-        "name": "Quendrill"
+    quendrill: {
+        name: "Quendrill"
     },
-    "araquavik": {
-        "name": "Araquavik"
+    araquavik: {
+        name: "Araquavik"
     },
-    "regialpha": {
-        "name": "Regialpha"
+    regialpha: {
+        name: "Regialpha"
     },
-    "porygene": {
-        "name": "Porygene"
+    porygene: {
+        name: "Porygene"
     },
-    "venofree": {
-        "name": "Venofree"
+    venofree: {
+        name: "Venofree"
     },
-    "shargarch": {
-        "name": "Shargarch"
+    shargarch: {
+        name: "Shargarch"
     },
-    "draplisc": {
-        "name": "Draplisc"
+    draplisc: {
+        name: "Draplisc"
     },
-    "therrazor": {
-        "name": "Therrazor"
+    therrazor: {
+        name: "Therrazor"
     },
-    "rizinraza": {
-        "name": "Rizinraza"
+    rizinraza: {
+        name: "Rizinraza"
     },
-    "mafimime": {
-        "name": "Mafimime"
+    mafimime: {
+        name: "Mafimime"
     },
-    "venoom": {
-        "name": "Venoom"
+    venoom: {
+        name: "Venoom"
     },
-    "sinicabre": {
-        "name": "Sinicabre"
+    sinicabre: {
+        name: "Sinicabre"
     },
-    "althontoxel": {
-        "name": "Toxel"
+    althontoxel: {
+        name: "Toxel"
     },
-    "althontoxtricity": {
-        "name": "Toxtricity"
+    althontoxtricity: {
+        name: "Toxtricity"
     },
-    "mienfood": {
-        "name": "Mienfood"
+    mienfood: {
+        name: "Mienfood"
     },
-    "mienshantis": {
-        "name": "Mienshantis"
+    mienshantis: {
+        name: "Mienshantis"
     },
-    "althondoduo": {
-        "name": "Doduo"
+    althondoduo: {
+        name: "Doduo"
     },
-    "althondodrio": {
-        "name": "Dodrio"
+    althondodrio: {
+        name: "Dodrio"
     },
-    "althonmachop": {
-        "name": "Machop"
+    althonmachop: {
+        name: "Machop"
     },
-    "althonmachoke": {
-        "name": "Machoke"
+    althonmachoke: {
+        name: "Machoke"
     },
-    "althonmachamp": {
-        "name": "Machamp"
+    althonmachamp: {
+        name: "Machamp"
     },
-    "arite": {
-        "name": "Arite"
+    arite: {
+        name: "Arite"
     },
-    "lairite": {
-        "name": "Lairite"
+    lairite: {
+        name: "Lairite"
     },
-    "aggrite": {
-        "name": "Aggrite"
+    aggrite: {
+        name: "Aggrite"
     },
-    "malevite": {
-        "name": "Malevite"
+    malevite: {
+        name: "Malevite"
     },
-    "althonrotom": {
-        "name": "Rotom"
+    althonrotom: {
+        name: "Rotom"
     },
-	"althonrotomlantern": {
-        "name": "Rotom"
+	althonrotomlantern: {
+        name: "Rotom"
     },
-	"althonrotomcement": {
-        "name": "Rotom"
+	althonrotomcement: {
+        name: "Rotom"
     },
-	"althonrotomwindvane": {
-        "name": "Rotom"
+	althonrotomwindvane: {
+        name: "Rotom"
     },
-	"althonrotombouzouki": {
-        "name": "Rotom"
+	althonrotombouzouki: {
+        name: "Rotom"
     },
-	"althonrotomclock": {
-        "name": "Rotom"
+	althonrotomclock: {
+        name: "Rotom"
     },
-    "althondunsparce": {
-        "name": "Dunsparce"
+    althondunsparce: {
+        name: "Dunsparce"
     },
-    "dunspartan": {
-        "name": "Dunspartan"
+    dunspartan: {
+        name: "Dunspartan"
     },
-    "althonphanpy": {
-        "name": "Phanpy"
+    althonphanpy: {
+        name: "Phanpy"
     },
-    "althondonphan": {
-        "name": "Donphan"
+    althondonphan: {
+        name: "Donphan"
     },
-    "mastophan": {
-        "name": "Mastophan"
+    mastophan: {
+        name: "Mastophan"
     },
-    "althonshinx": {
-        "name": "Shinx"
+    althonshinx: {
+        name: "Shinx"
     },
-    "althonluxio": {
-        "name": "Luxio"
+    althonluxio: {
+        name: "Luxio"
     },
-    "althonluxrayc": {
-        "name": "Luxray"
+    althonluxray: {
+        name: "Luxray"
     },
-	"althonluxrayd": {
-        "name": "Luxray"
+    althonroggenrola: {
+        name: "Roggenrola"
     },
-    "althonroggenrola": {
-        "name": "Roggenrola"
+    althonboldore: {
+        name: "Boldore"
     },
-    "althonboldore": {
-        "name": "Boldore"
+    althongigalith: {
+        name: "Gigalith"
     },
-    "althongigalith": {
-        "name": "Gigalith"
+    althoncorphish: {
+        name: "Corphish"
     },
-    "althoncorphish": {
-        "name": "Corphish"
+    althoncrawdaunt: {
+        name: "Crawdaunt"
     },
-    "althoncrawdaunt": {
-        "name": "Crawdaunt"
+    revolaunt: {
+        name: "Revolaunt"
     },
-    "revolaunt": {
-        "name": "Revolaunt"
+    althonskiddo: {
+        name: "Skiddo"
     },
-    "althonskiddo": {
-        "name": "Skiddo"
+    althongogoat: {
+        name: "Gogoat"
     },
-    "althongogoat": {
-        "name": "Gogoat"
+    althonshuppet: {
+        name: "Shuppet"
     },
-    "althonshuppet": {
-        "name": "Shuppet"
+    althonbanette: {
+        name: "Banette"
     },
-    "althonbanette": {
-        "name": "Banette"
+    marionectre: {
+        name: "Marionectre"
     },
-    "marionectre": {
-        "name": "Marionectre"
+    althonmagby: {
+        name: "Magby"
     },
-    "althonmagby": {
-        "name": "Magby"
+    althonmagmar: {
+        name: "Magmar"
     },
-    "althonmagmar": {
-        "name": "Magmar"
+    althonmagmortar: {
+        name: "Magmortar"
     },
-    "althonmagmortar": {
-        "name": "Magmortar"
+    althonelekid: {
+        name: "Elekid"
     },
-    "althonelekid": {
-        "name": "Elekid"
+    althonelectabuzz: {
+        name: "Electabuzz"
     },
-    "althonelectabuzz": {
-        "name": "Electabuzz"
+    althonelectivire: {
+        name: "Electivire"
     },
-    "althonelectivire": {
-        "name": "Electivire"
+    althoncombee: {
+        name: "Combee"
     },
-    "althoncombee": {
-        "name": "Combee"
+    althonvespiquen: {
+        name: "Vespiquen"
     },
-    "althonvespiquen": {
-        "name": "Vespiquen"
+    althonsableye: {
+        name: "Sableye"
     },
-    "althonsableye": {
-        "name": "Sableye"
+    sorcereye: {
+        name: "Sorcereye"
     },
-    "sorcereye": {
-        "name": "Sorcereye"
+    althononix: {
+        name: "Onix"
     },
-    "althononix": {
-        "name": "Onix"
+    althonsteelix: {
+        name: "Steelix"
     },
-    "althonsteelix": {
-        "name": "Steelix"
+    althonpancham: {
+        name: "Pancham"
     },
-    "althonpancham": {
-        "name": "Pancham"
+    althonpangoro: {
+        name: "Pangoro"
     },
-    "althonpangoro": {
-        "name": "Pangoro"
+    althonspinda: {
+        name: "Spinda"
     },
-    "althonspinda": {
-        "name": "Spinda"
+    spindojo: {
+        name: "Spindojo"
     },
-    "spindojo": {
-        "name": "Spindojo"
+    althonmareep: {
+        name: "Mareep"
     },
-    "althonmareep": {
-        "name": "Mareep"
+    althonflaaffy: {
+        name: "Flaaffy"
     },
-    "althonflaaffy": {
-        "name": "Flaaffy"
+    althonampharos: {
+        name: "Ampharos"
     },
-    "althonampharos": {
-        "name": "Ampharos"
+    althonpurrloin: {
+        name: "Purrloin"
     },
-    "althonpurrloin": {
-        "name": "Purrloin"
+    althonliepard: {
+        name: "Liepard"
     },
-    "althonliepard": {
-        "name": "Liepard"
+    althonspiritomb: {
+        name: "Spiritomb"
     },
-    "althonspiritomb": {
-        "name": "Spiritomb"
+    althonseedot: {
+        name: "Seedot"
     },
-    "althonseedot": {
-        "name": "Seedot"
+    althonnuzleaf: {
+        name: "Nuzleaf"
     },
-    "althonnuzleaf": {
-        "name": "Nuzleaf"
+    althonshiftry: {
+        name: "Shiftry"
     },
-    "althonshiftry": {
-        "name": "Shiftry"
+    althonvenipede: {
+        name: "Venipede"
     },
-    "althonvenipede": {
-        "name": "Venipede"
+    althonwhirlipede: {
+        name: "Whirlipede"
     },
-    "althonwhirlipede": {
-        "name": "Whirlipede"
+    althonscolipede: {
+        name: "Scolipede"
     },
-    "althonscolipede": {
-        "name": "Scolipede"
+    althonfrillish: {
+        name: "Frillish"
     },
-    "althonfrillish": {
-        "name": "Frillish"
+    althonjellicent: {
+        name: "Jellicent"
     },
-    "althonjellicent": {
-        "name": "Jellicent"
+    althonsilicobra: {
+        name: "Silicobra"
     },
-    "althonsilicobra": {
-        "name": "Silicobra"
+    althonsandaconda: {
+        name: "Sandaconda"
     },
-    "althonsandaconda": {
-        "name": "Sandaconda"
+    althonsnover: {
+        name: "Snover"
     },
-    "althonsnover": {
-        "name": "Snover"
+    althonabomasnow: {
+        name: "Abomasnow"
     },
-    "althonabomasnow": {
-        "name": "Abomasnow"
+    althonchikorita: {
+        name: "Chikorita"
     },
-    "althonchikorita": {
-        "name": "Chikorita"
+    althonbayleef: {
+        name: "Bayleef"
     },
-    "althonbayleef": {
-        "name": "Bayleef"
+    althonmeganium: {
+        name: "Meganium"
     },
-    "althonmeganium": {
-        "name": "Meganium"
+    althoncyndaquil: {
+        name: "Cyndaquil"
     },
-    "althoncyndaquil": {
-        "name": "Cyndaquil"
+    althonquilava: {
+        name: "Quilava"
     },
-    "althonquilava": {
-        "name": "Quilava"
+    althontyphlosion: {
+        name: "Typhlosion"
     },
-    "althontyphlosion": {
-        "name": "Typhlosion"
+    althontotodile: {
+        name: "Totodile"
     },
-    "althontotodile": {
-        "name": "Totodile"
+    althoncroconaw: {
+        name: "Croconaw"
     },
-    "althoncroconaw": {
-        "name": "Croconaw"
+    althonferaligatr: {
+        name: "Feraligatr"
     },
-    "althonferaligatr": {
-        "name": "Feraligatr"
+    althonhoppip: {
+        name: "Hoppip"
     },
-    "althonhoppip": {
-        "name": "Hoppip"
+    althonskiploom: {
+        name: "Skiploom"
     },
-    "althonskiploom": {
-        "name": "Skiploom"
+    althonjumpluff: {
+        name: "Jumpluff"
     },
-    "althonjumpluff": {
-        "name": "Jumpluff"
+    althonaxew: {
+        name: "Axew"
     },
-    "althonaxew": {
-        "name": "Axew"
+    althonfraxure: {
+        name: "Fraxure"
     },
-    "althonfraxure": {
-        "name": "Fraxure"
-    },
-    "althonhaxorus": {
-        "name": "Haxorus"
+    althonhaxorus: {
+        name: "Haxorus"
     }
 };
