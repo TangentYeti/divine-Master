@@ -97098,7 +97098,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althontoxtricity: {
+	toxtricityalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97136,7 +97136,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althondodrio: {
+	dodrioalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97155,7 +97155,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonmachamp: {
+	machampalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97212,7 +97212,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonrotom: {
+	rotomalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97231,7 +97231,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonrotomlanturn: {
+	rotomalthonlanturn: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97250,7 +97250,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonrotomcement: {
+	rotomalthoncement: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97269,7 +97269,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonrotomwindvane: {
+	rotomalthonwindvane: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97288,7 +97288,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonrotombouzouki: {
+	rotomalthonbouzouki: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97307,7 +97307,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonrotomclock: {
+	rotomalthonclock: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97364,7 +97364,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonluxrayc: {
+	luxrayalthonc: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97383,7 +97383,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonluxrayd: {
+	luxrayalthond: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97402,7 +97402,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althongigalith: {
+	gigalithalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97440,7 +97440,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althongogoat: {
+	gogoatalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97478,7 +97478,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonmagmortar: {
+	magmortaralthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97497,7 +97497,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonelectivire: {
+	electivirealthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97516,7 +97516,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonvespiquen: {
+	vespiquenalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97554,7 +97554,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonsteelix: {
+	steelixalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97573,7 +97573,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonpangoro: {
+	pangoroalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97611,7 +97611,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonampharos: {
+	ampharosalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97630,7 +97630,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonliepard: {
+	liepardalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97649,7 +97649,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonspiritomb: {
+	spiritombalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97668,7 +97668,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonshifty: {
+	shiftyalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97687,7 +97687,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonscolipede: {
+	scolipedealthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97706,7 +97706,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonjellicent: {
+	jellicentalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97725,7 +97725,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonsandaconda: {
+	sandacondaalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97744,7 +97744,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonabomasnow: {
+	abomasnowalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97763,7 +97763,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonmeganium: {
+	meganiumalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97782,7 +97782,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althontyphlosion: {
+	typhlosionalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97801,7 +97801,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonferaligatr: {
+	feraligatralthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97820,7 +97820,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonjumpluff: {
+	jumpluffalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
@@ -97839,7 +97839,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	althonhaxorus: {
+	haxorusalthon: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],
