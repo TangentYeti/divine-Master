@@ -7366,27 +7366,27 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	rotomalthonlanturn: {
+	rotomlanturn: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	rotomalthonmixer: {
+	rotommixer: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	rotomalthonwindvane: {
+	rotomwindvane: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	rotomalthonbouzouki: {
+	rotombouzouki: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	rotomalthonclock: {
+	rotomclock: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
@@ -7492,6 +7492,11 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		natDexTier: "OU"
 	},
 	sandacondaalthon: {
+		tier: "OU",
+		doublesTier: "DOU",
+		natDexTier: "OU"
+	},
+	abomasnowalthon: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"

@@ -21022,9 +21022,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	rotomalthonlantern: {
+	rotomlantern: {
 		num: 1172,
-		name: "Rotom-Althon-L",
+		name: "Rotom-Lanturn",
 		types: ["Fire", "Fairy"],
 		baseStats: {hp: 60, atk: 58, def: 102, spa: 112, spd: 102, spe: 86},
 		abilities: {0: "Flame Body", 1: "Friend Guard"},
@@ -21033,9 +21033,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	rotomalthonmixer: {
+	rotommixer: {
 		num: 1173,
-		name: "Rotom-Althon-M",
+		name: "Rotom-Mixer",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 60, atk: 58, def: 102, spa: 112, spd: 102, spe: 86},
 		abilities: {0: "Flame Body", 1: "Earth Eater"},
@@ -21044,9 +21044,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	rotomalthonwindvane: {
+	rotomwindvane: {
 		num: 1174,
-		name: "Rotom-Althon-W",
+		name: "Rotom-Windvane",
 		types: ["Fire", "Flying"],
 		baseStats: {hp: 60, atk: 58, def: 102, spa: 112, spd: 102, spe: 86},
 		abilities: {0: "Flame Body", 1: "Wind Rider"},
@@ -21055,9 +21055,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	rotomalthonbouzouki: {
+	rotombouzouki: {
 		num: 1175,
-		name: "Rotom-Althon-B",
+		name: "Rotom-Bouzouki",
 		types: ["Fire", "Ghost"],
 		baseStats: {hp: 60, atk: 58, def: 102, spa: 112, spd: 102, spe: 86},
 		abilities: {0: "Flame Body", 1: "Soundproof"},
@@ -21066,9 +21066,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	rotomalthonclock: {
+	rotomclock: {
 		num: 1176,
-		name: "Rotom-Althon-C",
+		name: "Rotom-Clock",
 		types: ["Fire", "Ghost"],
 		baseStats: {hp: 60, atk: 58, def: 102, spa: 112, spd: 102, spe: 86},
 		abilities: {0: "Flame Body", 1: "Bad Dreams"},

@@ -4751,20 +4751,20 @@ export const PokedexText: {[k: string]: PokedexText} = {
     rotomalthon: {
         name: "Rotom-Althon"
     },
-	rotomalthonlantern: {
-        name: "Rotom-Althon-L"
+	rotomlantern: {
+        name: "Rotom-Lanturn"
     },
-	rotomalthonmixer: {
-        name: "Rotom-Althon-M"
+	rotommixer: {
+        name: "Rotom-Mixer"
     },
-	rotomalthonwindvane: {
-        name: "Rotom-Althon-W"
+	rotomwindvane: {
+        name: "Rotom-Windvane"
     },
-	rotomalthonbouzouki: {
-        name: "Rotom-Althon-B"
+	rotombouzouki: {
+        name: "Rotom-Bouzouki"
     },
-	rotomalthonclock: {
-        name: "Rotom-Althon-C"
+	rotomclock: {
+        name: "Rotom-Clock"
     },
     dunspartan: {
         name: "Dunspartan"
