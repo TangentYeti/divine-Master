@@ -20123,7 +20123,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	ceramstes: {
 		num: 1090,
 		name: "Ceramstes",
-		types: ["Poisonl", "Fighting"],
+		types: ["Poison", "Fighting"],
 		baseStats: {hp: 66, atk: 123, def: 73, spa: 82, spd: 52, spe: 124},
 		abilities: {0: "Moxie", 1: "Rivalry"},
 		heightm: 2.5,
@@ -21033,9 +21033,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	rotomalthoncement: {
+	rotomalthonmixer: {
 		num: 1173,
-		name: "Rotom-Althon-C",
+		name: "Rotom-Althon-M",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 60, atk: 58, def: 102, spa: 112, spd: 102, spe: 86},
 		abilities: {0: "Flame Body", 1: "Earth Eater"},
@@ -21110,7 +21110,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	luxraydalthon: {
+	luxrayalthond: {
 		num: 1180,
 		name: "Luxray-Althon-D",
 		types: ["Fairy"],

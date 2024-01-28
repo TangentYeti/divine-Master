@@ -7371,7 +7371,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	rotomalthoncement: {
+	rotomalthonmixer: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"

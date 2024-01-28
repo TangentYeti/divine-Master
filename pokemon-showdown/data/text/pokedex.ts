@@ -4754,8 +4754,8 @@ export const PokedexText: {[k: string]: PokedexText} = {
 	rotomalthonlantern: {
         name: "Rotom-Althon-L"
     },
-	rotomalthoncement: {
-        name: "Rotom-Althon-C"
+	rotomalthonmixer: {
+        name: "Rotom-Althon-M"
     },
 	rotomalthonwindvane: {
         name: "Rotom-Althon-W"
