@@ -21178,7 +21178,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	althonelectivire: {
 		num: 1186,
-		name: "Eletivire",
+		name: "Electivire",
 		types: ["Fairy", "Electric"],
 		baseStats: {hp: 95, atk: 67, def: 75, spa: 123, spd: 95, spe: 85},
 		abilities: {0: "Lightingrod", 1: "Illuminate"},
