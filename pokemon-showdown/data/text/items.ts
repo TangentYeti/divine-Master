@@ -2389,4 +2389,36 @@ export const ItemsText: {[k: string]: ItemText} = {
 		name: "Vile Vial",
 		desc: "If held by a Venomicon, its Poison- and Flying-type attacks have 1.2x power.",
 	},
+	bananapeel: {
+		name: "Banana Peel",
+		desc: "If Held by Tikikong, it unlocks its true power",
+	},
+	hexcharm: {
+		name: "Hex Charm",
+		desc: "Boosts Special Defense by 30%",
+	},
+	guardcharm: {
+		name: "Guard Charm",
+		desc: "Boosts Defense by 30%",
+	},
+	shockorb: {
+		name: "Shock Orb",
+		desc: "At the end of every turn, this item attempts to paralyse the holder.",
+	},
+	miraclecharm: {
+		name: "Miracle Charm",
+		desc: "Prevents Critical hits.",
+	},
+	megaphone: {
+		name: "Megaphone",
+		desc: "Boosts Sound based moves.",
+	},
+	galehorn: {
+		name: "Gale Horn",
+		desc: "Increases the duration of the Strong Winds weather condition.",
+	},
+	spearhead: {
+		name: "Spear Head",
+		desc: "Boosts Impaling moves",
+	},
 };
