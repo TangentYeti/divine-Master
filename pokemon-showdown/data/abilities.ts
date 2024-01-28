@@ -662,7 +662,7 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 				move.drain = [1,4]
 				return move.drain
 			}
-				ability: this.dex.abilities.get('parasitic'),
+				ability: this.dex.abilities.get('parasitic')
 		},
 		name: "Parasitic",
 		rating: 2,
