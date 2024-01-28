@@ -137,10 +137,6 @@ export const Tags: {[id: string]: TagData} = {
 		name: "Uber",
 		speciesFilter: species => species.tier === 'Uber' || species.tier === '(Uber)' || species.tier === 'AG',
 	},
-	do: {
-		name: "DO",
-		speciesFilter: species => species.tier === 'DO' || species.tier === '(DO)',
-	},
 	ou: {
 		name: "OU",
 		speciesFilter: species => species.tier === 'OU' || species.tier === '(OU)',
