@@ -398,7 +398,7 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 			}
 		},
 		isBreakable: true,
-		name: "Hyper Cutter",
+		name: "Inner Peace",
 		rating: 1.5,
 		num: 52,
 	},
@@ -407,7 +407,7 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 			let activated = false;
 			for (const target of pokemon.adjacentFoes()) {
 				if (!activated) {
-					this.add('-ability', pokemon, 'Warcry', 'boost');
+					this.add('-ability', pokemon, 'War cry', 'boost');
 					activated = true;
 				}
 				if (target.volatiles['substitute']) {
@@ -417,7 +417,7 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 				}
 			}
 		},
-		name: "Warcry",
+		name: "War Cry",
 		rating: 3.5,
 		num: 22,
 	},
@@ -655,36 +655,31 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		rating: 0,
 		num: 96,
 	},
-	//parasitic: {
-	//	onModifyMove(move) {
-	//		if (!move?.flags['contact']) return;
-	//		if (!move?.drain) {
-	//			move.drain = [0,0];
-	//		}
-	//		move.drain.push {
-	//			move.drain: [1,4],
-	//			ability: this.dex.abilities.get('parasitic'),
-	//		};
-	//	},
-	//	name: "Parasitic",
-	//	rating: 2,
-	//	num: 142,
-	//},
-	//vampiric: {
-	//	onModifyMove(move) {
-	//		if (!move?.flags['bite']) return;
-	//		if (!move.drain) {
-	//			move.drain = [];
-	//		}
-	//		move.drain.push({
-	//			drain :[1,2],
-	//			ability: this.dex.abilities.get('vampiric'),
-	//		});
-	//	},
-	//	name: "Vampiric",
-	//	rating: 2,
-	//	num: 142,
-	//},
+	parasitic: {
+		onModifyMove(move) {
+			if (!move?.flags['contact']) return;
+			if (!move?.drain) {
+				move.drain = [1,4]
+				return move.drain
+			}
+				ability: this.dex.abilities.get('parasitic'),
+		},
+		name: "Parasitic",
+		rating: 2,
+		num: 142,
+	},
+	vampiric: {
+		onModifyMove(move) {
+			if (!move?.flags['bite']) return;
+			if (!move?.drain) {
+				move.drain = [1,4];
+			}
+				ability: this.dex.abilities.get('vampiric')
+		},
+		name: "Vampiric",
+		rating: 2,
+		num: 142,
+	},
 	spiritual: {
 		onBasePower(basePower, user, target, move) {
 			if (move && move.type === 'Dark') {
@@ -818,7 +813,7 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		},
 		name: "Underdog",
 	},
-	piercingarmour: {
+	piercingarmor: {
 		onDamagingHitOrder: 1,
 		onDamagingHit(damage, target, source, move) {
 			if (this.checkMoveMakesContact(move, source, target, true)) {
@@ -826,7 +821,7 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 				this.boost({atk: -1}, source, target, null, true);
 			}
 		},
-		name: "Piercing Armour",
+		name: "Piercing Armor",
 		rating: 2.5,
 		num: 24,
 	},
@@ -876,8 +871,7 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		rating: 3.5,
 		num: 220,
 	},
-	Bodyguard: {
-		name: "Bodyguard",
+	bodyguard: {
 		onFoeRedirectTarget(target, source, source2, move) {
 			if (!this.effectState.target.isSkyDropped() && this.validTarget(this.effectState.target, source, move.target)) {
 				if (move.smartTarget) move.smartTarget = false;
@@ -885,6 +879,9 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 				return this.effectState.target;
 			}
 		},
+		name: "Bodyguard",
+		rating: 3.5,
+		num: 220,
 	},
 	battlehardened: {
 		onResidualOrder: 28,
@@ -1043,7 +1040,7 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 			}
 		},
 		isBreakable: true,
-		name: "Lunar Empresst",
+		name: "Lunar Empress",
 		rating: 3.5,
 		num: 47,
 	},
@@ -1051,7 +1048,7 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 		onModifyMove(move) {
 			if (move.flags['contact']) delete move.flags['protect'];
 		},
-		name: "",
+		name: "Relentless",
 		rating: 2,
 		num: 260,
 	},
@@ -1350,6 +1347,19 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 			}
 		},
 		name: "Bad Dreams",
+		rating: 1.5,
+		num: 123,
+	},
+	magmacore: {
+		onResidualOrder: 28,
+		onResidualSubOrder: 2,
+		onResidual(pokemon) {
+			if (!pokemon.hp) return;
+			for (const target of pokemon.foes()) {
+				this.damage(target.baseMaxhp / 16, target, pokemon);
+			}
+		},
+		name: "Magma Core",
 		rating: 1.5,
 		num: 123,
 	},
@@ -2268,6 +2278,18 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 			}
 		},
 		name: "Flame Body",
+		rating: 2,
+		num: 49,
+	},
+	gorgongaze: {
+		onDamagingHit(damage, target, source, move) {
+			if (this.checkMoveMakesContact(move, source, target)) {
+				if (this.randomChance(4, 10)) {
+					source.trySetStatus('par', target);
+				}
+			}
+		},
+		name: "Gorgon Gaze",
 		rating: 2,
 		num: 49,
 	},
@@ -4187,6 +4209,23 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 			});
 		},
 		name: "Poison Touch",
+		rating: 2,
+		num: 143,
+	},
+	acidbreath: {
+		// upokecenter says this is implemented as an added secondary effect
+		onModifyMove(move) {
+			if (!move?.flags['bite'] || move.target === 'self') return;
+			if (!move.secondaries) {
+				move.secondaries = [];
+			}
+			move.secondaries.push({
+				chance: 30,
+				status: 'psn',
+				ability: this.dex.abilities.get('acidbreath'),
+			});
+		},
+		name: "Acid Breath",
 		rating: 2,
 		num: 143,
 	},
@@ -6201,6 +6240,16 @@ export const Abilities: {[abilityid: string]: AbilityData} = {
 			}
 		},
 		name: "Weak Armor",
+		rating: 1,
+		num: 133,
+	},
+	frailskin: {
+		onDamagingHit(damage, target, source, move) {
+			if (move.category === 'Physical') {
+				this.boost({def: -1, spa: 1}, target, target);
+			}
+		},
+		name: "Frail Skin",
 		rating: 1,
 		num: 133,
 	},

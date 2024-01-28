@@ -150,8 +150,8 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
     },
     gorgongaze: {
         name: "Gorgon Gaze",
-        desc: "This Pokemon sometimes freezes opponents when they make contact",
-        shortDesc: "Chance for Opponent to be frozen upon contact"
+        desc: "This Pokemon sometimes paralyses opponents when they make contact",
+        shortDesc: "Chance for Opponent to be para'd upon contact"
     },
     hellborn: {
         name: "Hellborn",
