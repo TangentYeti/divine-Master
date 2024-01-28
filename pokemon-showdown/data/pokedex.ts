@@ -19462,7 +19462,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	anaphyletric: {
 		num: 1030,
-		name: "Anayphyletric",
+		name: "Anaphyletric",
 		types: ["Electric", "Ghost"],
 		baseStats: {hp: 99, atk: 122, def: 52, spa: 57, spd: 108, spe: 82},
 		abilities: {0: "Intimidate", 1: "Stunning Entrance"},
@@ -19517,7 +19517,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	ukerial: {
 		num: 1035,
-		name: "Pagoyuki",
+		name: "Ukerial",
 		types: ["Psychic", "Ice"],
 		baseStats: {hp: 71, atk: 71, def: 80, spa: 134, spd: 138, spe: 106},
 		abilities: {0: "Frosted Embrace", 1: "Ice Body"},
@@ -19539,7 +19539,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	spirihit: {
 		num: 1037,
-		name: "Spirhit",
+		name: "Spirihit",
 		types: ["Ghost", "Fighting"],
 		baseStats: {hp: 67, atk: 101, def: 72, spa: 63, spd: 61, spe: 86},
 		abilities: {0: "Iron Fist", 1: "Simple"},
@@ -19559,9 +19559,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	mortarmer: {
+	mortarmur: {
 		num: 1039,
-		name: "Mortarmer",
+		name: "Mortarmur",
 		types: ["Fairy", "Fire"],
 		baseStats: {hp: 94, atk: 108, def: 50, spa: 93, spd: 73, spe: 92},
 		abilities: {0: "Fur Coat", 1: "Rhythm"},
@@ -19861,7 +19861,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Draquake",
 		types: ["Ground", "Dragon"],
 		baseStats: {hp: 120, atk: 90, def: 105, spa: 75, spd: 45, spe: 60},
-		abilities: {0: "Sandstream", 1: "Draconic Heritage"},
+		abilities: {0: "Earth Eater", 1: "Draconic Heritage"},
 		heightm: 2.5,
 		weightkg: 520,
 		color: "Gray",
@@ -20298,7 +20298,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	slumucus: {
 		num: 1106,
-		name: "Slimmug",
+		name: "Slumucus",
 		types: ["Bug", "Poison"],
 		baseStats: {hp: 63, atk: 45, def: 96, spa: 83, spd: 124, spe: 14},
 		abilities: {0: "Gooey", 1: "Slow Motion"},
@@ -20320,7 +20320,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	stalagtergeist: {
 		num: 1108,
-		name: "Stlagtergeist",
+		name: "Stalagtergeist",
 		types: ["Ghost", "Rock"],
 		baseStats: {hp: 89, atk: 103, def: 86, spa: 62, spd: 89, spe: 98},
 		abilities: {0: "Cursed Body", 1: "Solid Rock"},
@@ -20769,7 +20769,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	plaquerca: {
+	plaguerca: {
 		num: 1149,
 		name: "Plaguerca",
 		types: ["Bug", "Poison"],
@@ -21000,9 +21000,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	mavelite: {
+	malevite: {
 		num: 1170,
-		name: "Mavelite",
+		name: "Malevite",
 		types: ["Dark", "Rock"],
 		baseStats: {hp: 75, atk: 83, def: 57, spa: 137, spd: 69, spe: 109},
 		abilities: {0: "Magic Bounce", 1: "Serene Grace"},
@@ -21225,7 +21225,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Pangoro-Althon",
 		types: ["Grass", "Dragon"],
 		baseStats: {hp: 95, atk: 124, def: 78, spa: 49, spd: 71, spe: 78},
-		abilities: {0: "Gluttony", 1: "Shadow Tag"},
+		abilities: {0: "Gluttony", 1: "Inner Peace"},
 		heightm: 2.5,
 		weightkg: 520,
 		color: "Gray",
@@ -21345,7 +21345,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		num: 1200,
 		name: "Typhlosion-Althon",
 		types: ["Fire", "Water"],
-		baseStats: {hp: 78, atk: 54, def: 78, spa: 119, spd: 89, spe: 17},
+		baseStats: {hp: 78, atk: 54, def: 78, spa: 119, spd: 89, spe: 117},
 		abilities: {0: "Water Absorb", 1: "Neutralizing Gas"},
 		heightm: 2.5,
 		weightkg: 520,
