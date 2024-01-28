@@ -7331,7 +7331,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	toxtricityalthon: {
+	althontoxtricity: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
@@ -7341,12 +7341,12 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	dodrioalthon: {
+	althondodrio: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	machampalthon: {
+	althonmachamp: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
@@ -7361,32 +7361,32 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	rotomalthon: {
+	althonrotom: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	rotomalthonlanturn: {
+	althonrotomlanturn: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	rotomalthoncement: {
+	althonrotomcement: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	rotomalthonwindvane: {
+	althonrotomwindvane: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	rotomalthonbouzouki: {
+	althonrotombouzouki: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	rotomalthonclock: {
+	althonrotomclock: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
@@ -7396,17 +7396,17 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	luxrayalthonc: {
+	althonluxrayc: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	luxrayalthond: {
+	althonluxrayd: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	gigalithalthon: {
+	althongigalith: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
@@ -7416,7 +7416,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	gogoatalthon: {
+	althongogoat: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
@@ -7426,17 +7426,17 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	magmortaralthon: {
+	althonmagmortar: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	electivirealthon: {
+	althonelectivire: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	vespiquenalthon: {
+	althonvespiquen: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
@@ -7446,12 +7446,12 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	steelixalthon: {
+	althonsteelix: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	pangoroalthon: {
+	althonpangoro: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
@@ -7461,62 +7461,62 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	ampharosalthon: {
+	althonampharos: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	liepardalthon: {
+	althonliepard: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	spiritombalthon: {
+	althonspiritomb: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	shiftryalthon: {
+	althonshiftry: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	scolipedealthon: {
+	althonscolipede: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	jellicentalthon: {
+	althonjellicent: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	sandacondaalthon: {
+	althonsandaconda: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	meganiumalthon: {
+	althonmeganium: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	typhlosionalthon: {
+	althontyphlosion: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	feraligatralthon: {
+	althonferaligatr: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	jumpluffalthon: {
+	althonjumpluff: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	haxorusalthon: {
+	althonhaxorus: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"

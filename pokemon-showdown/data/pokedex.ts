@@ -20945,9 +20945,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	toxtricityalthon: {
+	althontoxtricity: {
 		num: 1165,
-		name: "Toxtricity-Althon",
+		name: "A-Toxtricity",
 		types: ["Electric", "Rock"],
 		baseStats: {hp: 83, atk: 119, def: 81, spa: 67, spd: 69, spe: 83},
 		abilities: {0: "Rock Head", 1: "Technician"},
@@ -20967,9 +20967,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	dodrioalthon: {
+	althondodrio: {
 		num: 1167,
-		name: "Dodrio-Althon",
+		name: "A-Dodrio",
 		types: ["Water", "Fire"],
 		baseStats: {hp: 75, atk: 50, def: 55, spa: 115, spd: 70, spe: 105},
 		abilities: {0: "Flash Fire", 1: "Moody"},
@@ -20978,9 +20978,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	machampalthon: {
+	althonmachamp: {
 		num: 1168,
-		name: "Machamp-Althon",
+		name: "A-Machamp",
 		types: ["Fighting"],
 		baseStats: {hp: 105, atk: 130, def: 105, spa: 50, spd: 60, spe: 55},
 		abilities: {0: "Stamina", 1: "Bodyguard"},
@@ -21011,9 +21011,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	rotomalthon: {
+	althonrotom: {
 		num: 1171,
-		name: "Rotom-Althon",
+		name: "A-Rotom",
 		types: ["Fire", "Ghost"],
 		baseStats: {hp: 45, atk: 55, def: 72, spa: 95, spd: 72, spe: 101},
 		abilities: {0: "Flame Body", 1: "Simple"},
@@ -21022,9 +21022,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	rotomalthonlantern: {
+	althonrotomlantern: {
 		num: 1172,
-		name: "Rotom-Althon-L",
+		name: "A-Rotom-L",
 		types: ["Fire", "Fairy"],
 		baseStats: {hp: 60, atk: 58, def: 102, spa: 112, spd: 102, spe: 86},
 		abilities: {0: "Flame Body", 1: "Friend Guard"},
@@ -21033,9 +21033,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	rotomalthoncement: {
+	althonrotomcement: {
 		num: 1173,
-		name: "Rotom-Althon-C",
+		name: "A-Rotom-C",
 		types: ["Fire", "Ground"],
 		baseStats: {hp: 60, atk: 58, def: 102, spa: 112, spd: 102, spe: 86},
 		abilities: {0: "Flame Body", 1: "Earth Eater"},
@@ -21044,9 +21044,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	rotomalthonwindvane: {
+	althonrotomwindvane: {
 		num: 1174,
-		name: "Rotom-Althon-W",
+		name: "A-Rotom-W",
 		types: ["Fire", "Flying"],
 		baseStats: {hp: 60, atk: 58, def: 102, spa: 112, spd: 102, spe: 86},
 		abilities: {0: "Flame Body", 1: "Wind Rider"},
@@ -21055,9 +21055,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	rotomalthonbouzouki: {
+	althonrotombouzouki: {
 		num: 1175,
-		name: "Rotom-Althon-B",
+		name: "A-Rotom-B",
 		types: ["Fire", "Ghost"],
 		baseStats: {hp: 60, atk: 58, def: 102, spa: 112, spd: 102, spe: 86},
 		abilities: {0: "Flame Body", 1: "Soundproof"},
@@ -21066,9 +21066,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	rotomalthonclock: {
+	althonrotomclock: {
 		num: 1176,
-		name: "Rotom-Althon-C",
+		name: "A-Rotom-C",
 		types: ["Fire", "Ghost"],
 		baseStats: {hp: 60, atk: 58, def: 102, spa: 112, spd: 102, spe: 86},
 		abilities: {0: "Flame Body", 1: "Bad Dreams"},
@@ -21121,9 +21121,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	gigalithalthon: {
+	althongigalith: {
 		num: 1181,
-		name: "Gigalith-Althon",
+		name: "A-Gigalith",
 		types: ["Steel", "Fairy"],
 		baseStats: {hp: 85, atk: 60, def: 130, spa: 80, spd: 135, spe: 25},
 		abilities: {0: "Mirror Armor", 1: "Sturdy"},
@@ -21143,9 +21143,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	gogoatalthon: {
+	althongogoat: {
 		num: 1183,
-		name: "Gogoat-Althon",
+		name: "A-Gogoat",
 		types: ["Grass", "Fighting"],
 		baseStats: {hp: 123, atk: 100, def: 107, spa: 51, spd: 91, spe: 58},
 		abilities: {0: "Seeing Red", 1: "Reckless"},
@@ -21165,9 +21165,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	magmortaralthon: {
+	althonmagmortar: {
 		num: 1185,
-		name: "Magmortar-Althon",
+		name: "A-Magmortar",
 		types: ["Flying", "Fire"],
 		baseStats: {hp: 85, atk: 95, def: 67, spa: 95, spd: 73, spe: 125},
 		abilities: {0: "Steam Engine", 1: "Flash Fire"},
@@ -21176,9 +21176,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	electivirealthon: {
+	althonelectivire: {
 		num: 1186,
-		name: "Electivire-Althon",
+		name: "A-Electivire",
 		types: ["Fairy", "Electric"],
 		baseStats: {hp: 95, atk: 67, def: 75, spa: 123, spd: 95, spe: 85},
 		abilities: {0: "Lightingrod", 1: "Illuminate"},
@@ -21187,9 +21187,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	vespiquenalthon: {
+	althonvespiquen: {
 		num: 1187,
-		name: "Vespiquen-Althon",
+		name: "A-Vespiquen",
 		types: ["Ground", "Flying"],
 		baseStats: {hp: 70, atk: 110, def: 102, spa: 50, spd: 102, spe: 70},
 		abilities: {0: "Unnerve", 1: "Hustle"},
@@ -21209,9 +21209,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	steelixalthon: {
+	althonsteelix: {
 		num: 1189,
-		name: "Steelix-Althon",
+		name: "A-Steelix",
 		types: ["Steel", "Dragon"],
 		baseStats: {hp: 89, atk: 30, def: 69, spa: 96, spd: 111, spe: 115},
 		abilities: {0: "Steely Spirit", 1: "Marvel Scale"},
@@ -21220,9 +21220,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	pangoroalthon: {
+	althonpangoro: {
 		num: 1190,
-		name: "Pangoro-Althon",
+		name: "A-Pangoro",
 		types: ["Grass", "Dragon"],
 		baseStats: {hp: 95, atk: 124, def: 78, spa: 49, spd: 71, spe: 78},
 		abilities: {0: "Gluttony", 1: "Shadow Tag"},
@@ -21242,9 +21242,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	ampharosalthon: {
+	althonampharos: {
 		num: 1192,
-		name: "Ampharos-Althon",
+		name: "A-Ampharos",
 		types: ["Dragon", "Dark"],
 		baseStats: {hp: 119, atk: 35, def: 95, spa: 107, spd: 109, spe: 45},
 		abilities: {0: "Illuminate", 1: "Cursed Body"},
@@ -21253,9 +21253,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	liepardalthon: {
+	althonliepard: {
 		num: 1192,
-		name: "Liepard-Althon",
+		name: "A-Liepard",
 		types: ["Dark", "Fighting"],
 		baseStats: {hp: 74, atk: 108, def: 74, spa: 83, spd: 50, spe: 106},
 		abilities: {0: "Defiant", 1: "Tough Claws"},
@@ -21264,9 +21264,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	spiritombalthon: {
+	althonspiritomb: {
 		num: 1193,
-		name: "Spiritomb-Althon",
+		name: "A-Spiritomb",
 		types: ["Ghost", "Fairy"],
 		baseStats: {hp: 35, atk: 108, def: 92, spa: 108, spd: 92, spe: 50},
 		abilities: {0: "Infiltrator", 1: "Shadow Tag"},
@@ -21275,9 +21275,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	shiftryalthon: {
+	althonshiftry: {
 		num: 1194,
-		name: "Shiftry-Althon",
+		name: "A-Shiftry",
 		types: ["Grass", "Flying"],
 		baseStats: {hp: 58, atk: 76, def: 53, spa: 121, spd: 41, spe: 131},
 		abilities: {0: "Turbine", 1: "Wind Power"},
@@ -21286,9 +21286,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	scolipedealthon: {
+	althonscolipede: {
 		num: 1195,
-		name: "Scolipede-Althon",
+		name: "A-Scolipede",
 		types: ["Rock", "Poison"],
 		baseStats: {hp: 70, atk: 55, def: 89, spa: 100, spd: 79, spe: 112},
 		abilities: {0: "Battle Armor", 1: "Speed Boost"},
@@ -21297,9 +21297,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	jellicentalthon: {
+	althonjellicent: {
 		num: 1196,
-		name: "Jellicent-Althon",
+		name: "A-Jellicent",
 		types: ["Fairy", "Water"],
 		baseStats: {hp: 100, atk: 35, def: 85, spa: 85, spd: 115, spe: 60},
 		abilities: {0: "Serene Grace"},
@@ -21308,9 +21308,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	sandacondaalthon: {
+	althonsandaconda: {
 		num: 1197,
-		name: "Sandaconda-Althon",
+		name: "A-Sandaconda",
 		types: ["Ground", "Flying"],
 		baseStats: {hp: 94, atk: 30, def: 83, spa: 121, spd: 109, spe: 78},
 		abilities: {0: "Sand Spit", 1: "Vacuum"},
@@ -21319,9 +21319,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	abomasnowalthon: {
+	althonabomasnow: {
 		num: 1198,
-		name: "Abomasnow-Althon",
+		name: "A-Abomasnow",
 		types: ["Ice", "Fairy"],
 		baseStats: {hp: 96, atk: 57, def: 73, spa: 103, spd: 117, spe: 48},
 		abilities: {0: "Refrigerate", 1: "Pixilate"},
@@ -21330,9 +21330,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	meganiumalthon: {
+	althonmeganium: {
 		num: 1199,
-		name: "Meganium-Althon",
+		name: "A-Meganium",
 		types: ["Grass", "Fire"],
 		baseStats: {hp: 88, atk: 62, def: 100, spa: 109, spd: 106, spe: 70},
 		abilities: {0: "Flash Fire", 1: "Solar Power"},
@@ -21341,9 +21341,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	typhlosionalthon: {
+	althontyphlosion: {
 		num: 1200,
-		name: "Typhlosion-Althon",
+		name: "A-Typhlosion",
 		types: ["Fire", "Water"],
 		baseStats: {hp: 78, atk: 54, def: 78, spa: 119, spd: 89, spe: 17},
 		abilities: {0: "Water Absorb", 1: "Neutralizing Gas"},
@@ -21352,9 +21352,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	feraligatralthon: {
+	althonferaligatr: {
 		num: 1201,
-		name: "Feraligatr-Althon",
+		name: "A-Feraligatr",
 		types: ["Water", "Grass"],
 		baseStats: {hp: 86, atk: 105, def: 100, spa: 79, spd: 92, spe: 73},
 		abilities: {0: "Sap Sipper", 1: "Defiant"},
@@ -21363,9 +21363,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	jumpluffalthon: {
+	althonjumpluff: {
 		num: 1202,
-		name: "Jumpluff-Althon",
+		name: "A-Jumpluff",
 		types: ["Grass", "Electric"],
 		baseStats: {hp: 75, atk: 40, def: 70, spa: 100, spd: 95, spe: 110},
 		abilities: {0: "Static", 1: "Levitate"},
@@ -21374,9 +21374,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	haxorusalthon: {
+	althonhaxorus: {
 		num: 1203,
-		name: "Haxorus-Althon",
+		name: "A-Haxorus",
 		types: ["Ice", "Dragon"],
 		baseStats: {hp: 71, atk: 147, def: 115, spa: 40, spd: 70, spe: 97},
 		abilities: {0: "Swift Swim", 1: "Mold Breaker"},

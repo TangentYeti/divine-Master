@@ -4718,8 +4718,11 @@ export const PokedexText: {[k: string]: PokedexText} = {
     sinicabre: {
         name: "Sinicabre"
     },
-    toxtricityalthon: {
-        name: "Toxtricity-Althon"
+    althontoxel: {
+        name: "Toxel"
+    },
+    althontoxtricity: {
+        name: "A-Toxtricity"
     },
     mienfood: {
         name: "Mienfood"
@@ -4727,11 +4730,17 @@ export const PokedexText: {[k: string]: PokedexText} = {
     mienshantis: {
         name: "Mienshantis"
     },
-    dodrioalthon: {
-        name: "Dodrio-Althon"
+    althondodrio: {
+        name: "A-Dodrio"
     },
-    machampalthon: {
-        name: "Machamp-Althon"
+    althonmachamp: {
+        name: "A-Machamp"
+    },
+    arite: {
+        name: "Arite"
+    },
+    lairite: {
+        name: "Lairite"
     },
     aggrite: {
         name: "Aggrite"
@@ -4739,23 +4748,23 @@ export const PokedexText: {[k: string]: PokedexText} = {
     malevite: {
         name: "Malevite"
     },
-    rotomalthon: {
-        name: "Rotom-Althon"
+    althonrotom: {
+        name: "A-Rotom"
     },
-	rotomalthonlantern: {
-        name: "Rotom-Althon-L"
+	althonrotomlantern: {
+        name: "A-Rotom-L"
     },
-	rotomalthoncement: {
-        name: "Rotom-Althon-C"
+	althonrotomcement: {
+        name: "A-Rotom-C"
     },
-	rotomalthonwindvane: {
-        name: "Rotom-Althon-W"
+	althonrotomwindvane: {
+        name: "A-Rotom-W"
     },
-	rotomalthonbouzouki: {
-        name: "Rotom-Althon-B"
+	althonrotombouzouki: {
+        name: "A-Rotom-B"
     },
-	rotomalthonclock: {
-        name: "Rotom-Althon-C"
+	althonrotomclock: {
+        name: "A-Rotom-C"
     },
     dunspartan: {
         name: "Dunspartan"
@@ -4764,81 +4773,81 @@ export const PokedexText: {[k: string]: PokedexText} = {
         name: "Mastophan"
     },
     luxrayalthonc: {
-        name: "Luxray-Althon-C"
+        name: "A-Luxray-C"
     },
 	luxrayalthond: {
         name: "Luxray-Althon-D"
     },
-    gigalithalthon: {
-        name: "Gigalith-Althon"
+    althongigalith: {
+        name: "A-Gigalith"
     },
     revolaunt: {
         name: "Revolaunt"
     },
-    gogoatalthon: {
-        name: "Gogoat-Althon"
+    althongogoat: {
+        name: "A-Gogoat"
     },
     marionectre: {
-        name: "Marionectre-Althon"
+        name: "A-Marionectre"
     },
-    magmortaralthon: {
-        name: "Magmortar-Althon"
+    althonmagmortar: {
+        name: "A-Magmortar"
     },
-    electivirealthon: {
-        name: "Electivire-Althon"
+    althonelectivire: {
+        name: "A-Electivire"
     },
-    vespiquenalthon: {
-        name: "Vespiquen-Althon"
+    althonvespiquen: {
+        name: "A-Vespiquen"
     },
     sorcereye: {
         name: "Sorcereye"
     },
-    steelixalthon: {
-        name: "Steelix-Althon"
+    althonsteelix: {
+        name: "A-Steelix"
     },
-    pangoroalthon: {
-        name: "Pangoro-Althon"
+    althonpangoro: {
+        name: "A-Pangoro"
     },
     spindojo: {
         name: "Spindojo"
     },
-    ampharosalthon: {
-        name: "Ampharos-Althon"
+    althonampharos: {
+        name: "A-Ampharos"
     },
-    liepardalthon: {
-        name: "Liepard-Althon"
+    althonliepard: {
+        name: "A-Liepard"
     },
-    spiritombalthon: {
-        name: "Spiritomb-Althon"
+    althonspiritomb: {
+        name: "A-Spiritomb"
     },
-    shiftryalthon: {
-        name: "Shiftry-Althon"
+    althonshiftry: {
+        name: "A-Shiftry"
     },
-    scolipedealthon: {
-        name: "Scolipede-Althon"
+    althonscolipede: {
+        name: "A-Scolipede"
     },
-    jellicentalthon: {
-        name: "Jellicent-Althon"
+    althonjellicent: {
+        name: "A-Jellicent"
     },
-    sandacondaalthon: {
-        name: "Sandaconda-Althon"
+    althonsandaconda: {
+        name: "A-Sandaconda"
     },
-    abomasnowalthon: {
-        name: "Abomasnow-Althon"
+    althonabomasnow: {
+        name: "A-Abomasnow"
     },
-    meganiumalthon: {
-        name: "Meganium-Althon"
+    althonmeganium: {
+        name: "A-Meganium"
     },
-    typhlosionalthon: {
-        name: "Typhlosion-Althon"
+    althontyphlosion: {
+        name: "A-Typhlosion"
     },
-    feraligatralthon: {
-        name: "Feraligatr-Althon"
+    althonferaligatr: {
+        name: "A-Feraligatr"
     },
-    jumpluffalthon: {
-        name: "Jumpluff-Althon"
+    althonjumpluff: {
+        name: "A-Jumpluff"
     },
-    haxorusalthon: {
-        name: "Haxorus-Althon"
+    althonhaxorus: {
+        name: "A-Haxorus"
     }
 };
