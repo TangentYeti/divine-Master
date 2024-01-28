@@ -7400,4 +7400,310 @@ export const MovesText: {[k: string]: MoveText} = {
 			shortDesc: "Nearly always goes first. Always crits.",
 		},
 	},
+	absolutezero: {
+		name: "Absolute Zero",
+		desc: "All Water Moves become Ice Type for 5 to 8 turns.",
+		shortDesc: "Water Moves become Ice Type",
+	},
+	abyssalrift: {
+		name: "Zen Headbutt",
+		desc: "Has a 20% to inflict Fear.",
+		shortDesc: "20% chance to cause Fear.",
+	},
+	allspike: {
+		name: "Allspike",
+		desc: "Sets Spikes and Stealth Rock.",
+		shortDesc: "Sets Stealth Rock and a Layer of Spikes.",
+	},
+	anchorslam: {
+		name: "Anchor Slam",
+		desc: "25% chance to lower speed.",
+		shortDesc: "25% chance to lower speed.",
+	},
+	ancientfury: {
+		name: "Ancient Fury",
+		desc: "has  30% chance to lower defense.",
+		shortDesc: "20% chance defense drop.",
+	},
+	asteroid: {
+		name: "Asteroid",
+		shortDesc: "No Additional Effect.",
+	},
+	astralscythe: {
+		name: "Astral Scythe",
+		shortDesc: "No additional effect.",
+	},
+	bananabeat: {
+		name: "Banana Beat",
+		desc: "+4 Attack, -33% HP, fails if not holding Banana Peel.",
+		shortDesc: "+4 Attack, -33% HP, fails if not holding Banana Peel.",
+	},
+	bananabeatdown: {
+		name: "Banana Beatdown",
+		desc: "User takes 25% recoil Damage.",
+		shortDesc: "25% recoil damage.",
+	},
+	basaltbarrage: {
+		name: "Basalt Barrage",
+		desc: "Has a 10% chance to lower defense.",
+		shortDesc: "10% chance defense drop.",
+	},
+	blackhole: {
+		name: "Blackhole",
+		desc: "Lowers teh speed of the target every turn.",
+		shortDesc: "Lowers Targets speed repeatedly.",
+	},
+	bulletsiege: {
+		name: "Bullet Siege",
+		desc: "Cannot Miss.",
+		shortDesc: "Cannot Miss.",
+	},
+	causticbreath: {
+		name: "Caustic Breath",
+		desc: "Has a 20% chance to burn the target.",
+		shortDesc: "20% Burn chance .",
+	},
+	cerebralpuncture: {
+		name: "Cerebral Puncture",
+		desc: "Charge on teh first turn. Gain +1 Attack. On the Second Turn, Deal Damage",
+		shortDesc: "Turn 1, +1 Atk. Turn 2, Damage",
+	},
+	cerebralsaw: {
+		name: "Cerebral Saw",
+		desc: "Has a 20% chance to lower targets defense.",
+		shortDesc: "20% chance defense drop.",
+	},
+	chipulse: {
+		name: "Chi Pulse",
+		desc: "Has a 20% chance to lower Targets Special Defense.",
+		shortDesc: "20% chance SpDef drop.",
+	},
+	chillingshroud: {
+		name: "Chilling Shourd",
+		desc: "Has a 10% chance to freeze the target.",
+		shortDesc: "10% chance to freeze.",
+	},
+	chrysalis: {
+		name: "Chrysalis",
+		desc: "First turn, +1 both defenses. Second Turn, Shell Smash",
+		shortDesc: "1st Turn, +1 Def and SpDef. 2nd Turn, Shell Smash.",
+	},
+	coralcrash: {
+		name: "Coral Crash",
+		desc: "User takes 25% recoil.",
+		shortDesc: "25% recoil.",
+	},
+	corruption: {
+		name: "Corruption",
+		desc: "Has a 20% chance to inflict Fear.",
+		shortDesc: "20% chance Fear.",
+	},
+	cretacialmaul: {
+		name: "Cretacial Maul",
+		desc: "Has a 20% chance to make the target flinch.",
+		shortDesc: "20% chance to make the target flinch.",
+	},
+	cruelsun: {
+		name: "Cruel Sun",
+		desc: "Turn 1, Lowers targets Defense. Turn 2 Attacks.",
+		shortDesc: "Turn 1, Lowers targets Defense. Turn 2, damage.",
+	},
+	crushingembrace: {
+		name: "Crushing Embrace",
+		desc: "Deals 1/8 each turn for 5 turns.",
+		shortDesc: "Deals 1/8 each turn for 5 turns.",
+	},
+	crystaltide: {
+		name: "Crystal Tide",
+		desc: "1/8 Healing to water types for 5 turns. Applies Magic Coat effect.",
+		shortDesc: "1/8 Healing to water types for 5 turns. Applies Magic Coat effect.",
+	},
+	cyclone: {
+		name: "Cyclone",
+		desc: "User Switches out after attacking.",
+		shortDesc: "User switches after attacking.",
+	},
+	dryice: {
+		name: "Dry Ice",
+		desc: "15% Burn Chance, 5% Freeze chance.",
+		shortDesc: "15% Burn Chance, 5% Freeze chance.",
+	},
+	feverclaw: {
+		name: "Fever Claw",
+		desc: "15% Toxic poison chance.",
+		shortDesc: "15% toxic chance.",
+	},
+	gammaburst: {
+		name: "Gamma Burst",
+		desc: "Super effective against Steel types.",
+		shortDesc: "Super effective against Steel types.",
+	},
+	geigerblade: {
+		name: "Geiger Blade",
+		desc: "30% Toxic Poison.",
+		shortDesc: "30% Toxic Poison.",
+	},
+	geocannon: {
+		name: "Geo Cannon",
+		desc: "30% Speed drop.",
+		shortDesc: "30% speed drop.",
+	},
+	haunting: {
+		name: "Haunting",
+		desc: "10% Fear.",
+		shortDesc: "10% Fear.",
+	},
+	heavenlyfury: {
+		name: "Heavenly Fury",
+		desc: "20% +1 Attack.",
+		shortDesc: "20% +1 Atk.",
+	},
+	hellishrebuke: {
+		name: "Hellish Rebuke",
+		desc: "20% Fear.",
+		shortDesc: "20% Fear.",
+	},
+	highaltitude: {
+		name: "High Altitude",
+		desc: "25% restore HP, +1 Accuracy.",
+		shortDesc: "Restore 25% HP, +1 Acc.",
+	},
+	killerwatt: {
+		name: "Killerwatt",
+		desc: "20% paralysis chance.",
+		shortDesc: "20% para.",
+	},
+	knightsblade: {
+		name: "Knight's Blade",
+		desc: "20% +1 Def, 20% +1 Atk.",
+		shortDesc: "20% +1 Def, 20% +1 Atk.",
+	},
+	labyrinth: {
+		name: "Labyrinth",
+		desc: "Lowers targets defenses and causes confusion.",
+		shortDesc: "Lowers targets defenses and causes confusion.",
+	},
+	noxiousmaw: {
+		name: "Noxious Maw",
+		desc: "20% Poison Chance.",
+		shortDesc: "20% poison.",
+	},
+	photonlance: {
+		name: "Photon Lance",
+		desc: "Lowers Defense, Special Defense and Speed.",
+		shortDesc: "-1 Def, -1 SpDef, -1 Spd.",
+	},
+	kicrush: {
+		name: "Ki Crush",
+		desc: "Can Hit Ghost Type Pokemon.",
+		shortDesc: "Neutral against Ghost types.",
+	},
+	glaciercrash: {
+		name: "Glacier Crash",
+		shortDesc: "No additional effect.",
+	},
+	preemptivestrike: {
+		name: "Pre-Emptive Strike",
+		desc: "Damage based on speed.",
+		shortDesc: "Damage based on speed.",
+	},
+	psionicneedles: {
+		name: "Psionic Needles",
+		desc: "Hits 3 times.",
+		shortDesc: "Hits 3 times.",
+	},
+	psychicoverload: {
+		name: "Psychic Overload",
+		desc: "1 hit KO.",
+		shortDesc: "1 hit KO.",
+	},
+	scaleshield: {
+		name: "Scale Shield",
+		desc: "Protects the user and raises its defense.",
+		shortDesc: "Protects the user and raises its defense.",
+	},
+	scorchingtail: {
+		name: "Scorching Tail",
+		desc: "30% lower attack.",
+		shortDesc: "30% -1 Atk.",
+	},
+	skyquake: {
+		name: "Skyquake",
+		shortDesc: "No additional effect.",
+	},
+	sonicdescent: {
+		name: "Sonic Descent",
+		desc: "Damage based on speed.",
+		shortDesc: "Damage based on speed.",
+	},
+	spectralhammer: {
+		name: "Spectral Hammer",
+		desc: "10% -1 defense.",
+		shortDesc: "10% -1 defense.",
+	},
+	spiritbomb: {
+		name: "Spirit Bomb",
+		desc: "30% Fear.",
+		shortDesc: "30% Fear.",
+	},
+	stalagtites: {
+		name: "Stalagtites",
+		desc: "Prevents Jumping and Flying Moves, takes damage instead.",
+		shortDesc: "Prevents Jumping and Flying Moves, takes damage instead.",
+	},
+	starburst: {
+		name: "Star Burst",
+		desc: "Usually goes first.",
+		shortDesc: "Usually goes First.",
+	},
+	stubbornroots: {
+		name: "Stubborn Roots",
+		desc: "Cannot switch, gives 1/12 healing per turn.",
+		shortDesc: "Cannot switch, gives 1/12 healing per turn.",
+	},
+	monsoon: {
+		name: "Monsoon",
+		desc: "Summons Thunderstorm.",
+		shortDesc: "Summons Thunderstorm.",
+	},
+	supernova: {
+		name: "Supernova",
+		desc: "10% Burn.",
+		shortDesc: "10% burn.",
+	},
+	swampkick: {
+		name: "Swamp Kick",
+		desc: "20% -1 speed.",
+		shortDesc: "20% -1 spd.",
+	},
+	thunderblade: {
+		name: "Thunderblade",
+		desc: "1st turn Charge, 2nd turn damage.",
+		shortDesc: "1st turn Charge, 2nd turn damage.",
+	},
+	toxinspear: {
+		name: "Toxin Spear",
+		desc: "10% Toxic poison.",
+		shortDesc: "10% toxic poison.",
+	},
+	venomslash: {
+		name: "venomslash",
+		desc: "30% toxic poison.",
+		shortDesc: "30% toxic poison.",
+	},
+	witchbolt: {
+		name: "Witch Bolt",
+		desc: "30% paralysis chance.",
+		shortDesc: "30% para.",
+	},
+	wrathofmedusa: {
+		name: "Wrath Of Medusa",
+		desc: "10% freeze, 15% paralysis.",
+		shortDesc: "10% freeze, 15% para.",
+	},
+	wyvernblast: {
+		name: "Wyvern Blast",
+		desc: "20% flinch chance.",
+		shortDesc: "20% flinch chance.",
+	},
 };
