@@ -20164,9 +20164,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	appabison: {
+	parafullo: {
 		num: 1094,
-		name: "Appabison",
+		name: "Parafullo",
 		types: ["Normal", "Flying"],
 		baseStats: {hp: 112, atk: 55, def: 61, spa: 96, spd: 98, spe: 103},
 		abilities: {0: "Thick Fat", 1: "Fur Coat"},
@@ -20652,7 +20652,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		num: 1138,
 		name: "Juriatal",
 		types: ["Ghost", "Fairy"],
-		baseStats: {hp: 124, atk: 124, def: 124, spa: 124, spd: 124, spe: 124},
+		baseStats: {hp: 124, atk: 124, def: 124, spa: 124, spd: 124, spe: 20},
 		abilities: {0: "Executioner"},
 		heightm: 2.5,
 		weightkg: 520,
@@ -21058,7 +21058,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	rotombouzouki: {
 		num: 1175,
 		name: "Rotom-Bouzouki",
-		types: ["Fire", "Ghost"],
+		types: ["Fire", "Normal"],
 		baseStats: {hp: 60, atk: 58, def: 102, spa: 112, spd: 102, spe: 86},
 		abilities: {0: "Flame Body", 1: "Soundproof"},
 		heightm: 2.5,
@@ -21069,7 +21069,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	rotomclock: {
 		num: 1176,
 		name: "Rotom-Clock",
-		types: ["Fire", "Ghost"],
+		types: ["Fire", "Dark"],
 		baseStats: {hp: 60, atk: 58, def: 102, spa: 112, spd: 102, spe: 86},
 		abilities: {0: "Flame Body", 1: "Bad Dreams"},
 		heightm: 2.5,
@@ -21181,7 +21181,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Electivire-Althon",
 		types: ["Fairy", "Electric"],
 		baseStats: {hp: 95, atk: 67, def: 75, spa: 123, spd: 95, spe: 85},
-		abilities: {0: "Lightingrod", 1: "Illuminate"},
+		abilities: {0: "Lightningrod", 1: "Illuminate"},
 		heightm: 2.5,
 		weightkg: 520,
 		color: "Gray",
