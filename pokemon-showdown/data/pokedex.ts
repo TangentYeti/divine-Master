@@ -21099,7 +21099,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	althonluxrayc: {
+	luxrayalthonc: {
 		num: 1179,
 		name: "A-Luxray-C",
 		types: ["Dark"],
@@ -21110,9 +21110,9 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		color: "Gray",
 		eggGroups: ["Mineral"],
 	},
-	althonluxrayd: {
+	luxrayalthond: {
 		num: 1180,
-		name: "A-Luxray-D",
+		name: "Luxray-Althon-D",
 		types: ["Fairy"],
 		baseStats: {hp: 95, atk: 79, def: 79, spa: 120, spd: 80, spe: 70},
 		abilities: {0: "Gluttony", 1: "Wither"},

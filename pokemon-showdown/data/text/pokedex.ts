@@ -4772,11 +4772,11 @@ export const PokedexText: {[k: string]: PokedexText} = {
     mastophan: {
         name: "Mastophan"
     },
-    althonluxrayc: {
+    luxrayalthonc: {
         name: "A-Luxray-C"
     },
-	althonluxrayd: {
-        name: "A-Luxray-D"
+	luxrayalthond: {
+        name: "Luxray-Althon-D"
     },
     althongigalith: {
         name: "A-Gigalith"
