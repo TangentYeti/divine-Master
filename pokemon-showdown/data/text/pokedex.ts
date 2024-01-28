@@ -4722,7 +4722,7 @@ export const PokedexText: {[k: string]: PokedexText} = {
         name: "Toxel"
     },
     althontoxtricity: {
-        name: "Toxtricity"
+        name: "A-Toxtricity"
     },
     mienfood: {
         name: "Mienfood"
@@ -4730,20 +4730,11 @@ export const PokedexText: {[k: string]: PokedexText} = {
     mienshantis: {
         name: "Mienshantis"
     },
-    althondoduo: {
-        name: "Doduo"
-    },
     althondodrio: {
-        name: "Dodrio"
-    },
-    althonmachop: {
-        name: "Machop"
-    },
-    althonmachoke: {
-        name: "Machoke"
+        name: "A-Dodrio"
     },
     althonmachamp: {
-        name: "Machamp"
+        name: "A-Machamp"
     },
     arite: {
         name: "Arite"
@@ -4758,225 +4749,105 @@ export const PokedexText: {[k: string]: PokedexText} = {
         name: "Malevite"
     },
     althonrotom: {
-        name: "Rotom"
+        name: "A-Rotom"
     },
 	althonrotomlantern: {
-        name: "Rotom"
+        name: "A-Rotom-L"
     },
 	althonrotomcement: {
-        name: "Rotom"
+        name: "A-Rotom-C"
     },
 	althonrotomwindvane: {
-        name: "Rotom"
+        name: "A-Rotom-W"
     },
 	althonrotombouzouki: {
-        name: "Rotom"
+        name: "A-Rotom-B"
     },
 	althonrotomclock: {
-        name: "Rotom"
-    },
-    althondunsparce: {
-        name: "Dunsparce"
+        name: "A-Rotom-C"
     },
     dunspartan: {
         name: "Dunspartan"
     },
-    althonphanpy: {
-        name: "Phanpy"
-    },
-    althondonphan: {
-        name: "Donphan"
-    },
     mastophan: {
         name: "Mastophan"
     },
-    althonshinx: {
-        name: "Shinx"
+    althonluxrayc: {
+        name: "A-Luxray-C"
     },
-    althonluxio: {
-        name: "Luxio"
-    },
-    althonluxray: {
-        name: "Luxray"
-    },
-    althonroggenrola: {
-        name: "Roggenrola"
-    },
-    althonboldore: {
-        name: "Boldore"
+	althonluxrayd: {
+        name: "A-Luxray-D"
     },
     althongigalith: {
-        name: "Gigalith"
-    },
-    althoncorphish: {
-        name: "Corphish"
-    },
-    althoncrawdaunt: {
-        name: "Crawdaunt"
+        name: "A-Gigalith"
     },
     revolaunt: {
         name: "Revolaunt"
     },
-    althonskiddo: {
-        name: "Skiddo"
-    },
     althongogoat: {
-        name: "Gogoat"
-    },
-    althonshuppet: {
-        name: "Shuppet"
-    },
-    althonbanette: {
-        name: "Banette"
+        name: "A-Gogoat"
     },
     marionectre: {
-        name: "Marionectre"
-    },
-    althonmagby: {
-        name: "Magby"
-    },
-    althonmagmar: {
-        name: "Magmar"
+        name: "A-Marionectre"
     },
     althonmagmortar: {
-        name: "Magmortar"
-    },
-    althonelekid: {
-        name: "Elekid"
-    },
-    althonelectabuzz: {
-        name: "Electabuzz"
+        name: "A-Magmortar"
     },
     althonelectivire: {
-        name: "Electivire"
-    },
-    althoncombee: {
-        name: "Combee"
+        name: "A-Electivire"
     },
     althonvespiquen: {
-        name: "Vespiquen"
-    },
-    althonsableye: {
-        name: "Sableye"
+        name: "A-Vespiquen"
     },
     sorcereye: {
         name: "Sorcereye"
     },
-    althononix: {
-        name: "Onix"
-    },
     althonsteelix: {
-        name: "Steelix"
-    },
-    althonpancham: {
-        name: "Pancham"
+        name: "A-Steelix"
     },
     althonpangoro: {
-        name: "Pangoro"
-    },
-    althonspinda: {
-        name: "Spinda"
+        name: "A-Pangoro"
     },
     spindojo: {
         name: "Spindojo"
     },
-    althonmareep: {
-        name: "Mareep"
-    },
-    althonflaaffy: {
-        name: "Flaaffy"
-    },
     althonampharos: {
-        name: "Ampharos"
-    },
-    althonpurrloin: {
-        name: "Purrloin"
+        name: "A-Ampharos"
     },
     althonliepard: {
-        name: "Liepard"
+        name: "A-Liepard"
     },
     althonspiritomb: {
-        name: "Spiritomb"
-    },
-    althonseedot: {
-        name: "Seedot"
-    },
-    althonnuzleaf: {
-        name: "Nuzleaf"
+        name: "A-Spiritomb"
     },
     althonshiftry: {
-        name: "Shiftry"
-    },
-    althonvenipede: {
-        name: "Venipede"
-    },
-    althonwhirlipede: {
-        name: "Whirlipede"
+        name: "A-Shiftry"
     },
     althonscolipede: {
-        name: "Scolipede"
-    },
-    althonfrillish: {
-        name: "Frillish"
+        name: "A-Scolipede"
     },
     althonjellicent: {
-        name: "Jellicent"
-    },
-    althonsilicobra: {
-        name: "Silicobra"
+        name: "A-Jellicent"
     },
     althonsandaconda: {
-        name: "Sandaconda"
-    },
-    althonsnover: {
-        name: "Snover"
+        name: "A-Sandaconda"
     },
     althonabomasnow: {
-        name: "Abomasnow"
-    },
-    althonchikorita: {
-        name: "Chikorita"
-    },
-    althonbayleef: {
-        name: "Bayleef"
+        name: "A-Abomasnow"
     },
     althonmeganium: {
-        name: "Meganium"
-    },
-    althoncyndaquil: {
-        name: "Cyndaquil"
-    },
-    althonquilava: {
-        name: "Quilava"
+        name: "A-Meganium"
     },
     althontyphlosion: {
-        name: "Typhlosion"
-    },
-    althontotodile: {
-        name: "Totodile"
-    },
-    althoncroconaw: {
-        name: "Croconaw"
+        name: "A-Typhlosion"
     },
     althonferaligatr: {
-        name: "Feraligatr"
-    },
-    althonhoppip: {
-        name: "Hoppip"
-    },
-    althonskiploom: {
-        name: "Skiploom"
+        name: "A-Feraligatr"
     },
     althonjumpluff: {
-        name: "Jumpluff"
-    },
-    althonaxew: {
-        name: "Axew"
-    },
-    althonfraxure: {
-        name: "Fraxure"
+        name: "A-Jumpluff"
     },
     althonhaxorus: {
-        name: "Haxorus"
+        name: "A-Haxorus"
     }
 };
