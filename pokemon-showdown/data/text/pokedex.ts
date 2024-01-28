@@ -4751,7 +4751,7 @@ export const PokedexText: {[k: string]: PokedexText} = {
     rotomalthon: {
         name: "Rotom-Althon"
     },
-	rotomlanturn: {
+	rotomlantern: {
         name: "Rotom-Lanturn"
     },
 	rotommixer: {

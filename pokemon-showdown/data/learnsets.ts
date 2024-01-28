@@ -97231,7 +97231,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			{generation: 6, level: 40, gender: "M", nature: "Jolly", abilities: ["owntempo"], moves: ["sketch", "furyswipes", "seismictoss", "flamethrower"], pokeball: "cherishball"},
 		],
 	},
-	rotomlanturn: {
+	rotomlantern: {
 		learnset: {
 			captivate: ["5D"],
 			falseswipe: ["5S1"],

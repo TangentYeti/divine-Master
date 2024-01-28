@@ -7366,7 +7366,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "DOU",
 		natDexTier: "OU"
 	},
-	rotomlanturn: {
+	rotomlantern: {
 		tier: "OU",
 		doublesTier: "DOU",
 		natDexTier: "OU"

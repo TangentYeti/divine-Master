@@ -21024,7 +21024,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	rotomlantern: {
 		num: 1172,
-		name: "Rotom-Lanturn",
+		name: "Rotom-Lantern",
 		types: ["Fire", "Fairy"],
 		baseStats: {hp: 60, atk: 58, def: 102, spa: 112, spd: 102, spe: 86},
 		abilities: {0: "Flame Body", 1: "Friend Guard"},
