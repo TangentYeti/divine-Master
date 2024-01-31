@@ -66,7 +66,7 @@ exports.wsdeflate = {
 
 // example:
 exports.ssl = {
-	port: 8000,
+	port: 443,
 	options: {
 		key: '/etc/ssl/private/_.divineolympusshowdown.co.uk_private_key.key',
 		cert: '/etc/ssl/certs/divineolympusshowdown.co.uk_ssl_certificate.cer',
