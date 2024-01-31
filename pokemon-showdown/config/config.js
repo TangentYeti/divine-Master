@@ -5,7 +5,7 @@
  *
  * @type {number}
  */
-exports.port = 443;
+exports.port = 8000;
 
 /**
  * The server address - the address at which Pokemon Showdown should be hosting
@@ -13,7 +13,7 @@ exports.port = 443;
  *
  * @type {string}
  */
-exports.bindaddress = '198.244.190.246';
+exports.bindaddress = '0.0.0.0';
 
 /**
  * workers - the number of networking child processes to spawn
@@ -66,7 +66,7 @@ exports.wsdeflate = {
 
 // example:
 exports.ssl = {
-	port: 443,
+	port: 8000,
 	options: {
 		key: '/etc/ssl/private/_.divineolympusshowdown.co.uk_private_key.key',
 		cert: '/etc/ssl/certs/divineolympusshowdown.co.uk_ssl_certificate.cer',
