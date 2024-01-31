@@ -61,17 +61,17 @@ exports.wsdeflate = {
  *  something.
  * @type {{port: number, options: {key: string, cert: string}} | null}
  */
-//exports.ssl = null;
+exports.ssl = null;
 
 
-// example:
-exports.ssl = {
-	port: 443,
-	options: {
-		key: '/etc/ssl/private/_.divineolympusshowdown.co.uk_private_key.key',
-		cert: '/etc/ssl/certs/divineolympusshowdown.co.uk_ssl_certificate.cer',
-	},
-};
+// // example:
+// exports.ssl = {
+// 	port: 443,
+// 	options: {
+// 		key: '/etc/ssl/private/_.divineolympusshowdown.co.uk_private_key.key',
+// 		cert: '/etc/ssl/certs/divineolympusshowdown.co.uk_ssl_certificate.cer',
+// 	},
+// };
 
 
 /*
